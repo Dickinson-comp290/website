@@ -16,7 +16,7 @@
 
 Date            | Class Information                                                           | Assignment                 | Reading
 ----------------|-----------------------------------------------------------------------------|----------------------------|------------
-                | **FarmData2 and Web Development**                                           |                            |
+&nbsp;          | **FarmData2 and Web Development**                                           |                            |
 W 01/25/23      | C01 - Developer Installation                             [ [Slides][s01] ]  | [HW01][hw01] (Due: 02/01)  | [Producing Open Source Software: Introduction][r01]
 W 02/01/23      | C02 - HTML                                               [ [Slides][s02] ]  | [HW02][hw02] (Due: 02/08)  | [Why Open Source Misses the Point of Free Software][r02]
 W 02/08/23      | C03 - Vue Data Binding                                   [ [Slides][s03] ]  | [HW03][hw03] (Due: 02/15)  | No assigned reading. 
@@ -24,9 +24,9 @@ W 02/15/23      | C04 - Farm Visit<br>Vue Events and Javascript Functions<br>[ [
 W 02/22/23      | C05 - Web APIs                                           [ [Slides][s05] ]  | [HW05][hw05] (Due: 03/01)  | [Producing Open Source Software: Communications][r04]<br>Start at "Avoiding Common Pitfalls"<br>Stop before "Handling Growth" on pg. 131.
 W 03/01/23      | C06 - FarmData2 API Functions                            [ [Slides][s06] ]  | [HW06][hw06] (Due: 03/08)  | [A Coming-Out Party for Generative A.I.][r06]
 W 03/08/23      | C07 - End-To-End Testing with Cypress                    [ [Slides][s07] ]  | [HW07][hw07] (Due: 03/22)  | [Meet GPT-3: It Has Learned to Code (and Blog and Argue)][r07]
-                | *Spring Break*                                                              |                            |
+&nbsp;          | *Spring Break*                                                              |                            |
 W 03/22/23      | C08 - FarmData2 Components                               [ [Slides][s08] ]  | [HW08][hw08] (Due: 03/29)  | [How to Ask Good Technical Questions][r08]
-                | **Team Based Project Work**                                                 |                            |
+&nbsp;          | **Team Based Project Work**                                                 |                            |
 W 03/29/23      | C09 - Project Work                                       [ [Slides][s09] ]  | [Project Work][proj]       | [You can have the Blue Pill or the Red Pill, and We're Out of Blue Pills][r09]
 W 04/05/23      | C10 - Project Work                                                          |                            | [Lawsuit Takes Aim at the Way A.I. Is built][r10]
 W 04/12/23      | C11 - Project Work                                                          |                            | [Creating Just Language Technologies][r11]
