@@ -15,7 +15,7 @@ Assignment details including due dates and topics are indicated on the Course Ho
 
 ### Textbook
 
-Reading materials for COMP 290 will be provided via links on the course schedule or via Moodle.
+All of the materials for COMP 290 are [open educational resources](https://www.unesco.org/en/open-educational-resources) and will be provided via links on the course schedule.
 
 ### Learning Goals
 
@@ -26,11 +26,15 @@ Students will:
 
 ### Community and Inclusivity
 
-All members of this class are equally valued members of our course community. The instructor aims to create an *inclusive atmosphere* in which we can listen and speak in ways that are respectful of each other and our diversity of heritages, identities, experiences, knowledge and views. All questions will be accepted and treated with kindness. Some topics will push us to develop new ideas and opinions about things we may not have thought about before. The instructor aims to promote a *generous atmosphere*. One where we listen and speak to understand. One where all are given the benefit of the doubt as they try out new and partially formed thoughts and opinions. One where we respond to and critique statements and ideas, not individuals.  If you feel at any time that these ideals are not being met or have ways that our course atmosphere can be improved you are encouraged to reach out to the instructor.  In cases where talking with the instructor is not comfortable please contact your advisor, the Department Chair or another trusted College official for guidance.
+All members of this class are equally valued members of our course community. The instructor aims to create an *inclusive atmosphere* in which we can listen and speak in ways that are respectful of each other and our diversity of heritages, identities, experiences, knowledge and views. All questions will be accepted and treated with kindness. 
+
+Some topics will push us to develop new ideas and opinions about things we may not have thought about before. The instructor aims to promote a *generous atmosphere*. One where we listen and speak to understand. One where all are given the benefit of the doubt as they try out new and partially formed thoughts and opinions. One where we respond to and critique statements and ideas, not individuals.  
+
+If you feel at any time that these ideals are not being met or have ways that our course atmosphere can be improved you are encouraged to reach out to the instructor.  In cases where talking with the instructor is not comfortable please contact your advisor, the Department Chair or another trusted College official for guidance.
 
 ### Communications
 
-All communications outside of in person meetings will occur via Teams, Zulip or GitHub. Communication in public channels is preferred.  However, sensitive conversations should be initiated as a private chat. Please do not send e-mails.
+All communications outside of in person meetings will occur via Teams, Zulip or GitHub. Communication in public channels is preferred.  However, sensitive conversations should be initiated as a private chat on Teams. Please do not send e-mails.
 
 ### Office Hours
 
@@ -38,119 +42,151 @@ A list of my office hours and availability is provided on my home page (https://
 
 ### Course Structure
 
-The first part of the course (approximately 2/3 of the semester) will be devoted to learning web development and onboarding to the FarmData2 project. This part of the course will be run as a fairly typical course with discussions, lectures and assignments. The second part of the course (the final 1/3 of the semester) will be devoted to participating in the FarmData2 project. In this part of the course you will work with a team to contribute bug fixes, features and/or automated tests that are needed by the FarmData2 project.
+The first part of the course (approximately 3/4 of the semester) will be devoted to learning web development with HTML/CSS and Vue.js, and onboarding to the FarmData2 project. This part of the course will be run as a combination of readings and class discussions, completing on-line tutorials, working on hands-on activities in class, and applying what you learn in homework assignments. The second part of the course (the final 1/4 of the semester) will be devoted to building a feature in the FarmData2 project.
 
-#### Time Committement
+#### Time Commitment
 
-You should allocate 3-4 hours per week outside of class for this course. Some weeks will require less. Others, if you encounter difficulties, may require more. Please allocate enough time in your schedule for work on this course. This is consistent with [Dickinson’s standard](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedure) that "at least three hours of study accompany each class period".  If you find the activities are taking significantly longer than the expected time, please reach out to your instructor to discuss strategies for reducing the time required.
+You should allocate 3-4 hours per week outside of class for this course. Some weeks will require less. Others, if you encounter difficulties, may require more. Please allocate enough time in your schedule for work on this course. This is consistent with [Dickinson’s standard](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedure) that "at least three hours of study accompany each class period".  
+
+The readings, tutorials and homework assignments to be completed outside of class are targeted to take approximately the following amount of time:
+- Readings (20 - 30 minutes)
+- Tutorials (60 - 90 minutes)
+- Homework (90 - 120 minutes)
+
+If you find the activities are taking significantly longer than the expected time, please reach out to your instructor to discuss strategies for reducing the time required.
 
 #### Readings & Discussions
 
-A short reading on an open source, software engineering or contemporary social/legal/ethical issues in computing will be assigned prior to most class meetings.  The class meeting will begin with a class discussion of that reading. You are expected to do the readings in advance and come to class prepared to contribute to the discussion. Note that while everyone is expected to prepare for every discussion, it is not required that everyone contribute to every discussion. However, you are expected to contribute regularly enough to demonstrate you are preparing and engaging with the materials.  Students who are failing to demonstrate sufficient engagement or participation will be given updates and suggestions for improvement.
-
-**Laptops will be required to be closed during discussions.**
+A short reading on an open source, software engineering or contemporary social/legal/ethical issues in computing will be assigned prior to most class meetings.  The class meeting will begin with a class discussion of that reading. You are expected to do the readings in advance and come to class prepared to contribute to the discussion. Note that while everyone is expected to prepare for and be engaged during every discussion, it is not required that everyone contribute to every discussion. However, you are expected to contribute regularly enough to demonstrate you are preparing and engaging with the materials. Students who are failing to demonstrate sufficient engagement or participation will be given updates and suggestions for improvement.
 
 To prepare for class discussions you might:
-- Identify the main points made by the reading.
-- Think about your position on any controversial or unsettled issues that are raised.
-- Note things that you found interesting that you would like to hear your classmates opinions on.
-- Prepare questions to ask on things that were unclear to you.
+- Identify the main terms that are defined in the readings and any questions you have about them.
+- Identify the main points that are made by the reading.
+- Think about your position on any controversial or unsettled issues that are raised in the reading.
+- Note things that you found interesting and prepare questions about them that you may want to ask your classmates.
 
-#### Introductory Presentations
+#### Tutorials
 
-Each class will include a short introductory presentation to the day's topic by the instructor.  This introduction is intended to provide a big picture view of the topic and how it fits into the larger context of the course, software development and open source.  They are not intended to provide all of the information that you need to complete the activities.
+On-line tutorials will be used to introduce new technologies. Each tutorial will guide you through the construction of some small artifact using the technology being learned. Following these tutorials will help you to develop the type of independent learning skills that are a necessity in computing.
 
-#### Homework Activities
+#### In-Class Activities
 
-Following each Introductory Presentation, you will complete a collection of activities that guide you through the development of the main ideas, techniques for solving problems and provide practice with the material.  These activities will start from the introductory material but will also contain additional videos/readings and guide you through the learning of additional new material that builds on the introductory material. 
+In-class hands-on activities will build upon the learning from the tutorials that were completed prior to class. They will add content and challenge you to apply what you learned in different ways. These activities will help you to generalize what you have learned from the tutorials.
 
-**Homework activities are due before the next class meeting.**
+#### Homework Assignments
+
+The homework assignment for a topic will follow the in-class activities. These assignments are less structured and are designed to give you practice applying what you have learned in the tutorials and expanded and generalized in the in-class activities. The homework assignments build upon each other to create a prototype for a feature in FarmData2.
+
+The instructor's solution to each homework will be given as starter code for the next homework assignment. You will then complete the homework beginning from the starter code. Working from the given solution rather than from your own prior solution gives practice with reading and adapting code written by others, a skill that is essential in large scale software development.
 
 #### Project Work
 
-Team team project work will consist of the following elements:
+The final part of the semester will consist of team project work on part of a full feature in FarmData2. The full feature will be decomposed into smaller tasks, with each task being assigned to a different team. Each team will be responsible for implementing and testing the portion of the feature that is assigned to them.
 
-* Weekly Team Meetings: Each class period during the project work period will include time for each team to have a 10-15 minute meeting with the instructor to demonstrate of what they have accomplished during the week and to present any challenges they are facing for feedback and discussion.
-* Repository Code Commits: Individuals and teams are expected to make regular commits of their work. push them to their fork of the project and to make pull requests to the upstream repository as appropriate.
-* WiD: The writing in the discipline assignment will occur during the project work in the course and will require students to post a technical question to a project communication channel.
-* Final Presentation: Each team will give a 20 minute presentation during the final exam period describing and demonstrating the team's accomplishments, challenges and reflecting on lessons learned.
+During this portion of the course it is expected that each team member will participate in a weekly teem meeting during the class period. In these meetings the team will summarize what they have accomplished during the week, anything they are stuck on, and what they plan to accomplish during the next week. It is the team's responsibility to organize its work such that each team member has can make a demonstrable contribution to the work each week.
+
+#### Writing in the Discipline (WiD)
+
+This course is part of the WiD thread through the Computer Science major. There will be one assignment given between the first and second part of the course where you will review a Pull Request (PR). Reviewing pull requests are a regular part of the work of project maintainers and team members.
 
 ### Grading
 
-The COMP 290 course is graded as a Credit/No Credit course (see [Dickinson's Academic Policies and Procedures](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedures.pdf)).  The points below explain how each component of the course is scored and what is required to receive credit for the course as a whole.
+The COMP 290 course is graded as a Credit/No Credit course (see [Dickinson's Academic Policies and Procedures](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedures.pdf)).  The sections below explain how each component of the course is scored and what is required to receive credit for the course as a whole.
 
-#### Participation / Attendance / Engagement (PAE)
+#### Class Engagement
 
-You will receive a PAE score for each class meeting using the following rubric:
+A class engagement score will be assigned for each class meeting.  This score will include engagement in the discussion of any assigned readings as well as participation in the day's hands-on activities. 
 
-![PAE Rubric. 3 points - Present; Demonstrates careful and thorough preparation; Highly engaged in class and discussion; Contributing; Asking questions; Participation improved the class for all. 2 points - Present; Demonstrates some preparation Engaged in class and discussion; Actively listening; Possibly making contributions or asking questions. 1 point - Present; Possibly demonstrates a lack of preparation; Possibly not fully or consistently engaged. 0 points - Absent; Actively disengaged (phone/laptop/etc); Possibly distracting to others.](images/PAE-Rubric.jpg)
+Class Engagement scores will be assigned as follows:
 
-If you know you will be unable to attend a class due to a [College recognized religious holiday](https://www.dickinson.edu/download/downloads/id/13888/cssj_interfaith_calendar.pdf) or other extenuating circumstances please contact your instructor in advance. If if your request is in line with [College policy](https://www.dickinson.edu/download/downloads/id/12644/religious_accommodations_policy.pdf), reasonable and timely we will make accommodations and provide an alternative means of earning a PAE score for the missed class.  In the case of illness, please contact me as soon as possible (still preferably before class) and again, if reasonable and timely, we will make accommodations and provide an alternative means of earning a PAE score for the missed class.
+Score | Criteria
+------|-------------
+3     | Observed as fully and actively engaged in both discussion and in-class activities.
+2     | Nominal score (neither 3 nor 1).
+1     | Observed as repeatedly inattentive or disengaged during discussion or in-class activities.
+0     | Absent
 
-If you contact the instructor regarding an absence and the instructor judges that the reason for the absence is valid, you may earn a PAE score of 2 for the missed day by submitting (via Teams or e-mail) a 250-400 word summary of your thoughts on the reading(s) that were assigned for the class discussion that was missed.  This summary must be submitted within 1 week of the missed class period, unless otherwise arranged with the instructor.
+#### Tutorials and Homework
 
-#### Homework Activities
+Each tutorial and each homework assignment will be submitted by making a Pull Request on GitHub.  Your PR will be reviewed and will receive feedback and a score reflecting the quality, completeness and timeliness of the submission.
 
-You will receive a score on each Homework Activity using the following rubric:
+Tutorial and Homework scores will be assigned as follows:
 
-![Activity Rubric. 3 points - On time; Complete; Demonstrates a strong understanding and thoughtful engagement; Uses complete sentences; Neat and organized. 2 points - On time or max for a late/resubmission; Complete or nearly complete; Demonstrates a sufficient understanding of the material; Some answers may not fully address the question, be unclear, be insufficiently explained, use incomplete sentences, and/or be messy/disorganized. 1 point - Insufficiently complete; Fails to demonstrate acceptable level of understanding. 0 points - Not submitted or largely incomplete.](images/Activity-Rubric.jpg)
+Score | Criteria
+------|-------------
+3     | The submission is easily determined to be correct, complete, and is broken in to logical commits.
+2     | Nominal score (neither 3 nor 1).
+1     | The submission is missing multiple elements of the assignment and/or the commits do not sufficiently demonstrate an incremental development of the solution.
+0     | Submission is missing or late.
 
-A Homework Activity receiving a score of 1 or 0 may be (re)submitted **once within 1 week** of being returned to the class. An activity (re)submitted within 1 week will be (re)scored and the new score will replace the original.  Late or resubmitted activities will receive a maximum score of 2. (Re)submissions more 1 week after an assignment is returned to the class will not be accepted and the original score will remain.  Extensions beyond 1 week will only be considered in extenuating circumstances with appropriate documentation.  Please see the "Life Happens" section at the bottom of this document.
+Notes:
+- Neatness, organization and readability of the code contribute heavily to the ability of the instructor to easily determine the correctness and completeness of a submission.
+- Completing work on time is an important professional disposition and is is respectful of your instructor's time. Thus, late work will not be accepted.
+
+##### Homework Resubmission
+
+If you receive a score of 1 or 2 on a homework assignment you may resubmit by responding to the feedback. Tutorials may not be resubmitted. If your resubmission is sufficient your score will be raised by one level (i.e. from 1 to 2 or from 2 to 3).
+
+#### Writing in the Discipline (WiD) Assignment
+
+The WiD assignment score will be assigned as follows:
+
+Score | Criteria
+------|-------------
+3     | The PR review clearly and concisely addresses all key issues and would be very helpful to the contributor in improving the PR.
+2     | Nominal score (neither 3 nor 1).
+1     | The PR review misses multiple key issues and/or would require significant clarification before it would be helpful to the contributor in improving the PR.
+0     | Submission is missing or late.
+
+Notes:
+- A score of 2 or 3 is required to receive credit for this assignment toward completion of the Computer Science WiD requirement.
+- A PR Review receiving a score of 1 may be revised and resubmitted after seeking feedback from the instructor. If adequate revision is made the score will be adjusted to a 2.
 
 #### Project Work
 
-You will receive a score each week during the project work using the following rubric:
+Project work scores will be assigned as follows:
 
-![Project Work Rubric. Team Meeting: 3 points - Present and engaged; Participated equally in the meeting; Communicated Individual and team accomplishments and challenges  thoughtfully, accurately and clearly; Demo showed convincing evidence of appropriate effort and progress. 2 points - Present; Individual participated in meeting; Communicated Individual and team accomplishments and challenges; Demo shows evidence of effort and possibly progress. 1 point - Present but possibly disengaged; Individual did not participate or participated minimally in the meeting; Individual and/or team accomplishments were minimal or unclear. Demo shows little evidence of effort and no progress. 0 points - Absent; Individual did not participate in the meeting; Individual and/or team accomplishments were absent. Demo shows no evidence of effort or progress. Commits: 3 points - Individual has authored or co-authored one or more commits; Commits reflect cohesive units of work; Commit messages are descriptive;  Commits merged into team's feature branch; PR for team's feature branch is clear and well written. 2 points - Individual has authored or co-authored at least one commit; Commits and commit messages are acceptable; Commits merged into team's feature branch; PR has been made for team's feature branch. 1 point - Individual may have authored or co-authored at least one commit; Commit is not cohesive; Commit message is perfunctory; Commit has not been merged into team's feature branch; Or PR has not been made for team's feature branch. 0 points - There is no evidence that the Individual has authored or co-authored a commit.](images/Project-Rubric.jpg)
+Score | Criteria
+------|-------------
+3     | There is clear evidence that the student made essential contributions to the team's accomplishments this week.
+2     | Nominal score (neither 3 nor 1).
+1     | Evidence suggests that the student made minimal contributions to the team's accomplishments this week.
+0     | There is clear evidence that the student did not contribute to the team's accomplishments this week.
 
-You will receive a score for the Writing in the Discipline (WiD) assignment using the following rubric:
+Note:
+- Evidence of contribution may come from participation in the discussion during the team meeting, attestations from teammates about contribution, activity in the discussion of the team's issue(s) or pull requests in GitHub, interaction with the instructor outside of class, and/or commits to the team's repository.
 
-![WiD Rubric. 3 points - Exceptionally clear well written question following guidelines in the assigned reading; Highly responsive to follow-up requests and/or comments on the question. 2 points - Well written question showing an awareness of the guidelines in the assigned reading; Responsive to follow-up requests and/or comments on the question. 1 point - A question was posted, but shows little effort or awareness of the guidelines in the assigned reading; Unresponsive to follow-up requests and/or comments on the question. 0 points - No question was posted.](images/WiD-Rubric.jpg)
+#### Course Credit
 
-You will receive a score for the final project presentation using the following rubric:
+When determining course credit:
+- the lowest two scores for class engagement, tutorials and homework will be dropped. 
+- the lowest score for project work will be dropped.
 
-![Presentation Rubric. 3 points - Clearly demonstrates accomplishment; Presentation was easy for target audience to follow; Shows code and clearly connects code to live demonstration; Shows thoughtful reflection on experience and learning; Individual contributed effectively. 2 points - Clearly demonstrates effort;  Majority of presentation could be followed by target audience; Shows code and gives live demonstration; Includes comments on experience and learning; Individual was involved. 1 point - Suggests insufficient effort; Significant parts of presentation were difficult for target audience to follow; Code presentation and/or demonstration are unclear; Experience and learning insufficiently addressed; Individual had minimal participation. 0 points - Individual did not participate sufficiently in project work to meaningfully contribute to presentation.](images/Presentation-Rubric.jpg)
-
-#### Receiving Credit for the Course
-
-In order to receive credit for the course you must meet the following criteria:
-
-![Class Rubric. PAE - Minimum of 30 points, with at most one 0. Homework Activities - Minimum of 15 points, with no 0's. Project Work - Minimum of 10 points, with at most one 0. WiD - Minimum score of 1. Final Presentation - Minimum score of 1.](images/Class-Rubric.jpg)
-
-The instructor reserves the right, with notification to the class, to reduce (but not increase) the point totals required for credit (e.g. in the event of a canceled class or a day with no assigned reading.)
+With those scores dropped the average score for each of class engagement, tutorials, homework, and project work must be greater than or equal to 2.00, and a submission must have been made for the WiD assignment.
 
 ### Academic Integrity
 
 Please take the time to read the Academic Misconduct section of [Dickinson's Community Standards](https://www.dickinson.edu/download/downloads/id/11821/community_standards.pdf). Violations of this policy are considered serious transgressions, so you should be especially certain that you understand your rights and responsibilities under it. Students suspected of academic dishonesty will be subject to the process outlined in the [Student Conduct](http://www.dickinson.edu/homepage/69/student_conduct) pages.
 
-The specific policies for COMP190 are detailed below. If you are unsure about whether or not certain kinds of collaboration or sources are permissible on an assignment or in this course, ask your instructor.
+The specific policies for COMP290 are detailed below. If you are unsure about whether or not certain kinds of collaboration or sources are permissible on an assignment or in this course, ask your instructor.
 
 #### Collaboration
 
-Homework Activities and Quizzes in COMP 290 are individual assignments. All work submitted must be your own work. Sharing or receiving of answers to assignments is not permitted.
+Tutorials, homework and the WiD assignment are individual assignments.  All work submitted must be your own work. Sharing or receiving of full or partial solutions to assignments is not permitted.
 
-However, you are encouraged to interact and to help each other learn.  For example:
-- You may ask and answer clarifying questions about assignments from your peers.
-- You can ask for suggestions of other resources to use or how to proceed with an assignment.  
-- You can help each other complete individual questions in the activities, as long as you each do the work individually.
-- You can visit evening TA lab hours in Tome 118 and consult the TA.
-- Etc.
+The hands-on in-class activities are not collected or assessed (apart from the Class Engagement score). Students are encouraged to collaborate on these activities in pairs or small groups.
 
-All of these types of questions can be asked of the instructor or of your classmates, either in person or on the course Teams channel. You are encouraged to ask and respond on the Teams channel. If you ask in person, please also try to post what you learn to the channel. This will ensure that others with the same questions will have access to the same helpful information that you receive.
+Project work will be team based. All work submitted must be the work of individuals on the team. Sharing or receiving of full or partial solutions to assignments is not permitted.
 
-**What you cannot do is copy answers from someone else. You must complete all question or exercise yourself on your own machine.** It is the process of trying and working through these exercises that builds your experience.  And that experience is what you will need to succeed in future classes, internships and jobs.
+#### Use of AI
 
-####  Outside Sources
-
-There are sites where answers can be looked up or where others can be asked for solutions. There are undoubtedly assignments from past offerings of this course that aree available to some of you. There are calculators and tools that will generate answers to some problems. Regardless of the availability of these materials, **the bottom line is that you are responsible** for ensuring your own mastery of the material. Failure to do so will limit your success in this class, future classes, internships and jobs that rely on this material.
-
-That said, for some problems you will be expected to use web searches and outside sources. In those cases this will be explicitly indicated in the problem.  Otherwise, the expectation is that you should be able to answer the question based on what you already know combined with careful and creative thought and diligent effort. If you struggle with such a question, ask for suggestions (see Collaboration above).
+AI coding assistants are now an integral part of a software developer's tool kit. An AI assistant will be introduced in this course. After its introduction students will be permitted to use it on any assignment.  It can be used to dialog ideas, concepts, program statements to better understand them as well as to perform code completion or code generation. Opportunities will be given to discuss your uses of the AI assistant and to share what you have found useful and not useful.
 
 ### Intellectual Property Rights
 
 Audio or video recording of class meetings, lectures or discussions is prohibited without explicit permission of the instructor. Photographic records of whiteboards, projected slides or other visual media is also prohibited without explicit permission of the instructor. In any case where audio/video/photographic records are provided or permission is given for them to be made they are for personal use only. They may not be shared or redistributed and must be destroyed at the end of their usefulness or within one week following the termination of this course, whichever comes first. Similarly, any redistribution of sample code, homework solution sets or provided lab code is prohibited. Please note that all outside materials used in the course (readings/tutorials/assignments/projects/etc) are also be governed by their own licensing and copyright agreements.
 
-### Accommodations Students with Disabilities
+### Accommodations for Students with Disabilities
 
 Dickinson values diverse types of learners and is committed to ensuring that each student is afforded equitable access to participate in all learning experiences. If you have (or think you may have) a learning difference or a disability – including a mental health, medical, or physical impairment – that would hinder your access to learning or demonstrating knowledge in this class, please contact Access and Disability Services (ADS). They will confidentially explain the accommodation request process and the type of documentation that Dean and Director Marni Jones will need to determine your eligibility for reasonable accommodations. To learn more about available supports, go to www.dickinson.edu/ADS, email access@dickinson.edu, call (717)245-1734, or go to the ADS office in Room 005 of Old West, Lower Level (aka "the OWLL").
 
@@ -160,6 +196,6 @@ If you’ve already been granted accommodations at Dickinson, please follow the 
 
 This class meets and my office are located on the second floor of Tome Hall, which has an elevator, located to the left of the stairs inside the main entrance. If you require the use of an elevator to access our class or my office, please let me know. If there is ever a malfunction with the elevator, we will be notified by email, and I will consult with ADS to identify our options for that day.
 
-### Life Happens:
+### Life Happens
 
-Sometimes stuff just happens, even more so in the challenging times in we currently find ourselves. Sometimes it is an unexpected sudden event such as an illness or family emergency. Other times it may be an ongoing issue or concern or an accumulation of smaller issues. Any of these things may affect your (or my) ability to focus or perform up to your (or my) potential through no shortcoming or fault of your (or my) own. Dickinson and this course provides a kind and caring community and we want to see you achieve at your full potential. So, if you are experiencing life events that are affecting your performance please don’t hesitate to talk to your instructor, your advisor or a member of the [CARE Team](https://www.dickinson.edu/info/20226/student_life/3540/). They will all be willing to talk with you, help to formulate a plan and/or connect you with others that may be able to assist. That said, it is still always best to contact the instructor in advance if you are going to miss a class meeting or an assignment due date. I will similarly communicate toy you any issues that I am facing in advance and we will adapt.
+Sometimes stuff just happens. Sometimes it is an unexpected sudden event such as an illness or family emergency. Other times it may be an ongoing issue or concern or an accumulation of smaller issues. Any of these things may affect your (or my) ability to focus or perform up to your (or my) potential through no shortcoming or fault of your (or my) own. Dickinson and this course provides a kind and caring community and we want to see you achieve at your full potential. So, if you are experiencing life events that are affecting your performance please don’t hesitate to talk to your instructor, your advisor or a member of the [CARE Team](https://www.dickinson.edu/info/20226/student_life/3540/). They will all be willing to talk with you, help to formulate a plan and/or connect you with others that may be able to assist. That said, it is still always best to contact the instructor in advance if you are going to miss a class meeting or an assignment due date. I will similarly communicate to you any issues that I am facing in advance and we will adapt.
