@@ -16,11 +16,18 @@
 
 ## COMP 290 Outline
 
+Key:
+- R: Reading assignment for the class discussion.
+- T: Tutorial assignment to be submitted before class.
+- S: Slides used by the instructor in class.
+- A: Activity done during class.
+- H: Homework due before the following class.
+
 Date            | Class Information                                | Before Class | During Class | After Class
 ----------------|--------------------------------------------------|--------------|--------------|-------------
 &nbsp;          | **FarmData2 and Web Development**                |              |              |
-W 09/03/25      | C01 - Introduction                               |              | [S01] [A01]  | [HW01]
-W 09/10/25      | C02 - HTML / CSS                                 | [R01] [T02]  | [S02] [A02]  | [HW02]
+W 09/03/25      | C01 - Introduction                               |              | [S01] [A01]  | [H01]
+W 09/10/25      | C02 - HTML / CSS                                 | [R01] [T02]  | [S02] [A02]  | [H02]
 W 09/17/25      | C03 - Vue Data Binding / List Rendering          | [R02] 
 W 09/24/25      | C04 -                                            | [R03]
 W 10/01/25      | C05 -                                            | [R04]
@@ -38,15 +45,17 @@ W 12/10/25      | C14 -                                            | [R14]
 Sat 12/20/25    | **9:00am Final Exam Slot**<br> FD2 Feature Hackathon???                      
  
 [A01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Hands-On.md
-[HW01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Application.md
+[H01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Application.md
 
 [T02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Tutorials.md
 [A02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Hands-On.md
-[HW02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Application.md
+[H02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Application.md
 
 [R01]: materials/readings/R01.md
 [R02]: materials/readings/R02.md
 [R03]: materials/readings/R03.md
+[R04]: materials/readings/R04.md
+
 
 [CompEd 2025]: https://comped.acm.org/2025/
 ---
