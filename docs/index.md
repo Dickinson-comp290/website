@@ -1,9 +1,10 @@
 ## COMP 290 Course Information
 - Fall Semester 2025
-  - Section 01
-  - W 1:30-2:45, Tome 231
+  - Section 01 - W 1:30-2:45, Tome 231
 - [Syllabus & Course Information](syllabus.md)
 - [Prof. Braught's Page](http://users.dickinson.edu/~braught/) - with office hours.
+
+## Communication
 
 - [Microsoft Team](https://teams.microsoft.com/l/team/19%3AuTqtmwXMZDfh50-FVnF1iyiv8eVS4GrvhNJKwN6KTLs1%40thread.tacv2/conversations?groupId=7b6ae7d2-39d8-43fe-8ccf-7f28e8bf428b&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 - [FarmData2 Zulip Chat](https://farmdata2.zulipchat.com/)
@@ -17,11 +18,11 @@
 ## COMP 290 Outline
 
 Key:
-- R: Reading assignment for the class discussion.
-- T: Tutorial assignment to be submitted before class.
-- S: Slides used by the instructor in class.
-- A: Activity done during class.
-- H: Homework due before the following class.
+- __R__: Reading assignment for the class discussion.
+- __T__: Tutorial assignment to be submitted before class.
+- __S__: Slides used by the instructor in class.
+- __A__: Activity done during class.
+- __H__: Homework due before the following class.
 
 Date            | Class Information                                | Before Class | During Class | After Class
 ----------------|--------------------------------------------------|--------------|--------------|-------------
@@ -58,6 +59,7 @@ Sat 12/20/25    | **9:00am Final Exam Slot**<br> FD2 Feature Hackathon???
 
 
 [CompEd 2025]: https://comped.acm.org/2025/
+
 ---
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
