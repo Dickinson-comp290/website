@@ -13,41 +13,43 @@
 
 - [Running the FarmData2 Development Environment](https://github.com/FarmData2/FarmData2/blob/development/docs/install/codespaces.md)
 - [Git/GitHub Command Reference](https://github.com/FarmData2/FD2-School-Materials/blob/main/GitReference/GitReference.md)
-- [Keyboard Shortcuts](https://github.com/FarmData2/FD2-School-Materials/blob/main/KeyboardShortcuts.md)
+- [FarmData2 Command Reference](https://github.com/FarmData2/FD2-School-Materials/blob/main/FD2CommandReference.md)
 
 ## COMP 290 Outline
 
 Key:
 - __R__: Reading assignment for the class discussion.
 - __T__: Tutorial assignment to be submitted before class.
-- __S__: Slides used by the instructor in class.
+- __N__: Notes used by the instructor in class.
 - __A__: Activity done during class.
 - __H__: Homework due before the following class.
 
 Date            | Class Information                                | Before Class | During Class | After Class
 ----------------|--------------------------------------------------|--------------|--------------|-------------
 &nbsp;          | **FarmData2 and Web Development**                |              |              |
-W 09/03/25      | C01 - Introduction                               |              | [S01] [A01]  | [H01]
-W 09/10/25      | C02 - HTML / CSS                                 | [R01] [T02]  | [S02] [A02]  | [H02]
-W 09/17/25      | C03 - Vue Data Binding / List Rendering          | [R02] 
-W 09/24/25      | C04 -                                            | [R03]
-W 10/01/25      | C05 -                                            | [R04]
-W 10/08/25      | C06 -                                            | [R05]
-W 10/15/25      | C07 -                                            | [R06]
-W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]           | [R07] [R08]
-W 10/29/25      | C09 -                                            | [R09]
-W 11/05/25      | C10 -                                            | [R10]
-W 11/12/25      | C11 -                                            | [R11]
-W 11/19/25      | C12 -                                            | [R12]
-W 11/26/25      | Thanksgiving Break                               |
-W 12/03/25      | C13 -                                            | [R13]
-W 12/10/25      | C14 -                                            | [R14]
+W 09/03/25      | C01 - Introduction                               |              | [N01] [A01]  | [H01]
+W 09/10/25      | C02 - HTML / CSS                                 | [R01] [T02]  | [N02] [A02]  | [H02]
+W 09/17/25      | C03 - Vue Data Binding / List Rendering          | [R02]        |
+W 09/24/25      | C04 -                                            | [R03]        |
+W 10/01/25      | C05 -                                            | [R04]        |
+W 10/08/25      | C06 -                                            | [R05]        |
+W 10/15/25      | C07 -                                            | [R06]        |
+W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]           | [R07] [R08]  |
+W 10/29/25      | C09 -                                            | [R09]        |
+W 11/05/25      | C10 -                                            | [R10]        |
+W 11/12/25      | C11 -                                            | [R11]        |
+W 11/19/25      | C12 - Project work                               | [R12]        |
+W 11/26/25      | Thanksgiving Break                               |              |
+W 12/03/25      | C13 - Project work                               | [R13]        |
+W 12/10/25      | C14 - Project work                               | [R14]        |
 &nbsp;          |
-Sat 12/20/25    | **9:00am Final Exam Slot**<br> FD2 Feature Hackathon???                      
+Sat 12/20/25    | **9:00am Final Exam Slot**<br> FD2 Harvest Feature Hackathon                      
  
+[N01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Class-Notes.md
 [A01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Hands-On.md
 [H01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Application.md
 
+[N02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Class-Notes.md
 [T02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Tutorials.md
 [A02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Hands-On.md
 [H02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Application.md
