@@ -125,7 +125,7 @@ Notes:
 
 ##### Homework Resubmission
 
-If you receive a score of 1 or 2 on a homework assignment you may resubmit by responding to the feedback. Tutorials may not be resubmitted. If your resubmission is sufficient your score will be raised by one level (i.e. from 1 to 2 or from 2 to 3).
+If you receive a score of 1 or 2 on a homework assignment you may resubmit within 1 week of receiving feedback. To resubmit, make changes to your code that address the feedback, commit the changes to your feature branch and push it to your origin to update your PR. Resubmission is not required. But if your resubmission is sufficient your score will be raised by one level (i.e. from 1 to 2 or from 2 to 3).  Note that only homework may be resubmitted, tutorials may not be resubmitted.
 
 #### Writing in the Discipline (WiD) Assignment
 
