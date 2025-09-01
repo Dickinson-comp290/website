@@ -27,14 +27,14 @@ Key:
 Date            | Class Information                                | Before Class | During Class | After Class
 ----------------|--------------------------------------------------|--------------|--------------|-------------
 &nbsp;          | **FarmData2 and Web Development**                |              |              |
-W 09/03/25      | C01 - Introduction                               |              | [N01] [A01]  | [H01]
-W 09/10/25      | C02 - HTML / CSS                                 | [R01] [T02]  | [N02] [A02]  | [H02]
+W 09/03/25      | C01 - Introduction                               |              | [N01], [A01]  | [H01]
+W 09/10/25      | C02 - HTML / CSS                                 | [R01], [T02] | [N02], [A02]  | [H02]
 W 09/17/25      | C03 - Vue Data Binding / List Rendering          | [R02]        |
 W 09/24/25      | C04 -                                            | [R03]        |
 W 10/01/25      | C05 -                                            | [R04]        |
 W 10/08/25      | C06 -                                            | [R05]        |
 W 10/15/25      | C07 -                                            | [R06]        |
-W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]           | [R07] [R08]  |
+W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]           | [R07], [R08] |
 W 10/29/25      | C09 -                                            | [R09]        |
 W 11/05/25      | C10 -                                            | [R10]        |
 W 11/12/25      | C11 -                                            | [R11]        |
