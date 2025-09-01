@@ -44,15 +44,24 @@ W 12/03/25      | C13 - Project work                               | [R13]      
 W 12/10/25      | C14 - Project work                               | [R14]        |
 &nbsp;          |
 Sat 12/20/25    | **9:00am Final Exam Slot**<br> FD2 Harvest Feature Hackathon                      
- 
+
+Note: Unlinked assignments and due dates are tentative and subject to change.
+
+<!-- 
 [N01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Class-Notes.md
+-->
+
 [A01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Hands-On.md
 [H01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Application.md
 
+<!--
 [N02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Class-Notes.md
+-->
 [T02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Tutorials.md
 [A02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Hands-On.md
+<!--
 [H02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Application.md
+-->
 
 [R01]: materials/readings/R01.md
 [R02]: materials/readings/R02.md

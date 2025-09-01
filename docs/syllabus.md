@@ -120,7 +120,7 @@ Score | Criteria
 0     | Submission is missing or late.
 
 Notes:
-- Neatness, organization and readability of the code contribute heavily to the ability of the instructor to easily determine the correctness and completeness of a submission.
+- Neatness, organization, and readability of the code, as well as consistent naming conventions and choice of appropriate program structures contribute heavily to the ability of the instructor to easily determine the correctness and completeness of a submission. Think about writing your code for another human reader rather than simply to make it work.
 - Completing work on time is an important professional disposition and is is respectful of your instructor's time. Thus, late work will not be accepted.
 
 ##### Homework Resubmission
@@ -186,15 +186,19 @@ AI coding assistants are now an integral part of a software developer's tool kit
 
 Audio or video recording of class meetings, lectures or discussions is prohibited without explicit permission of the instructor. Photographic records of whiteboards, projected slides or other visual media is also prohibited without explicit permission of the instructor. In any case where audio/video/photographic records are provided or permission is given for them to be made they are for personal use only. They may not be shared or redistributed and must be destroyed at the end of their usefulness or within one week following the termination of this course, whichever comes first. Similarly, any redistribution of sample code, homework solution sets or provided lab code is prohibited. Please note that all outside materials used in the course (readings/tutorials/assignments/projects/etc) are also be governed by their own licensing and copyright agreements.
 
-### Accommodations for Students with Disabilities
+### Accommodating Students with Disabilities
 
-Dickinson values diverse types of learners and is committed to ensuring that each student is afforded equitable access to participate in all learning experiences. If you have (or think you may have) a learning difference or a disability – including a mental health, medical, or physical impairment – that would hinder your access to learning or demonstrating knowledge in this class, please contact Access and Disability Services (ADS). They will confidentially explain the accommodation request process and the type of documentation that Dean and Director Marni Jones will need to determine your eligibility for reasonable accommodations. To learn more about available supports, go to www.dickinson.edu/ADS, email access@dickinson.edu, call (717)245-1734, or go to the ADS office in Room 005 of Old West, Lower Level (aka "the OWLL").
+Dickinson values diverse types of learners and is committed to ensuring that each student is afforded equitable access to participate in all learning experiences. If you have (or think you may have) a learning difference or a disability – including a mental health, medical, or physical condition – that would hinder your access to learning or demonstrating knowledge in this class, please contact Access and Disability Services (ADS). They will confidentially explain the accommodation request process and the type of documentation needed to determine your eligibility for reasonable accommodations. To learn more about available supports, go to [www.dickinson.edu/ADS](https://www.dickinson.edu/ADS), email access@dickinson.edu, call (717)245-1734, or go to the ADS office in Room 005 of Old West, Lower Level (aka "the OWLL").
 
-If you’ve already been granted accommodations at Dickinson, please follow the guidance at www.dickinson.edu/AccessPlan for disclosing the accommodations for which you are eligible and scheduling a meeting with me as soon as possible so that we can discuss your accommodations and finalize your Access Plan. If you will be using any test-taking accommodations in this class, be sure to enter all test dates into your Access Plan in advance of our meeting.
+If you’ve already been granted accommodations at Dickinson, please follow the guidance at [www.dickinson.edu/AccessPlan](https://www.dickinson.edu/AccessPlan) for disclosing the accommodations for which you are eligible and scheduling a meeting with me as soon as possible so that we can discuss your accommodations and finalize your Access Plan. If you will be using any test-taking accommodations in this class, be sure to enter all test dates into your Access Plan in advance of our meeting. ADS will be happy to provide any assistance you may need.
 
 ### Accessibility
 
-This class meets and my office are located on the second floor of Tome Hall, which has an elevator, located to the left of the stairs inside the main entrance. If you require the use of an elevator to access our class or my office, please let me know. If there is ever a malfunction with the elevator, we will be notified by email, and I will consult with ADS to identify our options for that day.
+The room in which this class meets and my office are both located on the second floor of Tome Hall. Tome Hall has an elevator that is located to the left of the stairs inside the main building entrance. If you require the use of an elevator to access the second floor, please let me know, and be sure that ADS (access@dickinson.edu) knows as well. If there is ever a malfunction with the elevator, we will be notified by email, and I will consult with ADS to identify our options for that day.
+
+### SOAR: Academic Success Support and More
+
+SOAR stands for __S__trategies, __O__rganization, & __A__chievement __R__esources, and students can find a wealth of strategic academic success tools (like weekly planners, semester calendars, and much more) at [www.dickinson.edu/SOAR](https://www.dickinson.edu/SOAR) or by going to Old West's Lower Level (aka "the OWLL"). Online or in person, you'll find useful resources related to organization, study skills, memory strategies, note-taking, test-taking, etc. If you’d like to attend a SOAR workshop or request one-on-one assistance with developing a strategy for a manageable and academically successful semester, email SOAR@dickinson.edu, or go to the OWLL to SOAR!
 
 ### Life Happens
 
