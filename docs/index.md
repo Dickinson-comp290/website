@@ -27,9 +27,9 @@ Key:
 Date            | Class Information                                | Before Class | During Class | After Class
 ----------------|--------------------------------------------------|--------------|--------------|-------------
 &nbsp;          | **FarmData2 and Web Development**                |              |              |
-W 09/03/25      | C01 - Introduction                               |              | [N01], [A01]  | [H01]
-W 09/10/25      | C02 - HTML / CSS                                 | [R01], [T02] | [N02], [A02]  | [H02]
-W 09/17/25      | C03 - Vue Data Binding / List Rendering          | [R02]        |
+W 09/03/25      | C01 - Introduction                               |              | [N01], [A01] | [H01]
+W 09/10/25      | C02 - HTML / CSS                                 | [R01], [T02] | [N02], [A02] | [H02]
+W 09/17/25      | C03 - Vue Data Binding / List Rendering          | [R02], [T03] | [N03], [A03] | [H03] 
 W 09/24/25      | C04 -                                            | [R03]        |
 W 10/01/25      | C05 -                                            | [R04]        |
 W 10/08/25      | C06 -                                            | [R05]        |
@@ -47,10 +47,7 @@ Sat 12/20/25    | **9:00am Final Exam Slot**<br> FD2 Harvest Feature Hackathon
 
 Note: Unlinked assignments and due dates are tentative and subject to change.
 
-<!-- 
 [N01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Class-Notes.md
--->
-
 [A01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Hands-On.md
 [H01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Application.md
 
