@@ -51,14 +51,20 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [A01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Hands-On.md
 [H01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Application.md
 
-<!--
 [N02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Class-Notes.md
--->
 [T02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Tutorials.md
 [A02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Hands-On.md
-<!--
 [H02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Application.md
+
+<!--
+[N03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Class-Notes.md
 -->
+[T03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Tutorials.md
+<!--
+[A03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Hands-On.md
+[H03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Application.md
+-->
+
 
 [R01]: materials/readings/R01.md
 [R02]: materials/readings/R02.md
