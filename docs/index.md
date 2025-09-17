@@ -30,8 +30,8 @@ Date            | Class Information                                | Before Clas
 W 09/03/25      | C01 - Introduction                               |              | [N01], [A01] | [H01]
 W 09/10/25      | C02 - HTML / CSS                                 | [R01], [T02] | [N02], [A02] | [H02]
 W 09/17/25      | C03 - Vue Data Binding / List Rendering          | [R02], [T03] | [N03], [A03] | [H03] 
-W 09/24/25      | C04 -                                            | [R03]        |
-W 10/01/25      | C05 -                                            | [R04]        |
+W 09/24/25      | C04 - Vue Inputs / User Events                   | [R03], [T04] | [N04], [A04] | [H04]
+W 10/01/25      | C05 - Vue Methods and Conditional Rendering      | [R04]        |
 W 10/08/25      | C06 -                                            | [R05]        |
 W 10/15/25      | C07 -                                            | [R06]        |
 W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]           | [R07], [R08] |
@@ -56,15 +56,19 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [A02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Hands-On.md
 [H02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Application.md
 
-<!--
 [N03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Class-Notes.md
--->
 [T03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Tutorials.md
-<!--
 [A03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Hands-On.md
 [H03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Application.md
--->
 
+<!--
+[N04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Class-Notes.md
+-->
+[T04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Tutorials.md
+<!--
+[A04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Hands-On.md
+[H04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Application.md
+-->
 
 [R01]: materials/readings/R01.md
 [R02]: materials/readings/R02.md
