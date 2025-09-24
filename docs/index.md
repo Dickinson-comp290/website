@@ -31,7 +31,7 @@ W 09/03/25      | C01 - Introduction                               |            
 W 09/10/25      | C02 - HTML / CSS                                 | [R01], [T02] | [N02], [A02] | [H02]
 W 09/17/25      | C03 - Vue Data Binding / List Rendering          | [R02], [T03] | [N03], [A03] | [H03] 
 W 09/24/25      | C04 - Vue Inputs / User Events                   | [R03], [T04] | [N04], [A04] | [H04]
-W 10/01/25      | C05 - Vue Methods and Conditional Rendering      | [R04]        |
+W 10/01/25      | C05 - Vue Methods and Conditional Rendering      | [R04], [T05] | [N05], [A05] | [H05]
 W 10/08/25      | C06 -                                            | [R05]        |
 W 10/15/25      | C07 -                                            | [R06]        |
 W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]           | [R07], [R08] |
@@ -61,20 +61,24 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [A03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Hands-On.md
 [H03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Application.md
 
-<!--
 [N04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Class-Notes.md
--->
 [T04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Tutorials.md
-<!--
 [A04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Hands-On.md
 [H04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Application.md
+
+<!--
+[N05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Class-Notes.md
+-->
+[T05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Tutorials.md
+<!--
+[A05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Hands-On.md
+[H05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Application.md
 -->
 
 [R01]: materials/readings/R01.md
 [R02]: materials/readings/R02.md
 [R03]: materials/readings/R03.md
 [R04]: materials/readings/R04.md
-
 
 [CompEd 2025]: https://comped.acm.org/2025/
 
