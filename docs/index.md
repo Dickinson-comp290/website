@@ -79,6 +79,8 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [R02]: materials/readings/R02.md
 [R03]: materials/readings/R03.md
 [R04]: materials/readings/R04.md
+[R05]: materials/readings/R05.md
+
 
 [CompEd 2025]: https://comped.acm.org/2025/
 
