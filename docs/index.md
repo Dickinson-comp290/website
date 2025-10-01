@@ -66,13 +66,18 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [A04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Hands-On.md
 [H04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Application.md
 
-<!--
 [N05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Class-Notes.md
--->
 [T05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Tutorials.md
-<!--
 [A05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Hands-On.md
 [H05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Application.md
+
+<!--
+[N06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Class-Notes.md
+-->
+[T06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Tutorials.md
+<!--
+[A06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Hands-On.md
+[H06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Application.md
 -->
 
 [R01]: materials/readings/R01.md
