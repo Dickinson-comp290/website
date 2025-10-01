@@ -24,24 +24,24 @@ Key:
 - __A__: Activity done during class.
 - __H__: Homework due before the following class.
 
-Date            | Class Information                                | Before Class | During Class | After Class
-----------------|--------------------------------------------------|--------------|--------------|-------------
-&nbsp;          | **FarmData2 and Web Development**                |              |              |
-W 09/03/25      | C01 - Introduction                               |              | [N01], [A01] | [H01]
-W 09/10/25      | C02 - HTML / CSS                                 | [R01], [T02] | [N02], [A02] | [H02]
-W 09/17/25      | C03 - Vue Data Binding / List Rendering          | [R02], [T03] | [N03], [A03] | [H03] 
-W 09/24/25      | C04 - Vue Inputs / User Events                   | [R03], [T04] | [N04], [A04] | [H04]
-W 10/01/25      | C05 - Vue Methods and Conditional Rendering      | [R04], [T05] | [N05], [A05] | [H05]
-W 10/08/25      | C06 -                                            | [R05]        |
-W 10/15/25      | C07 -                                            | [R06]        |
-W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]           | [R07], [R08] |
-W 10/29/25      | C09 -                                            | [R09]        |
-W 11/05/25      | C10 -                                            | [R10]        |
-W 11/12/25      | C11 -                                            | [R11]        |
-W 11/19/25      | C12 - Project work                               | [R12]        |
-W 11/26/25      | Thanksgiving Break                               |              |
-W 12/03/25      | C13 - Project work                               | [R13]        |
-W 12/10/25      | C14 - Project work                               | [R14]        |
+Date            | Class Information                                 | Before Class | During Class | After Class
+----------------|---------------------------------------------------|--------------|--------------|-------------
+&nbsp;          | **FarmData2 and Web Development**                 |              |              |
+W 09/03/25      | C01 - Introduction                                |              | [N01], [A01] | [H01]
+W 09/10/25      | C02 - HTML / CSS                                  | [R01], [T02] | [N02], [A02] | [H02]
+W 09/17/25      | C03 - Vue Data Binding / List Rendering           | [R02], [T03] | [N03], [A03] | [H03] 
+W 09/24/25      | C04 - Vue Inputs / User Events                    | [R03], [T04] | [N04], [A04] | [H04]
+W 10/01/25      | C05 - Vue Methods / Conditional Rendering         | [R04], [T05] | [N05], [A05] | [H05]
+W 10/08/25      | C06 - Vue Attribute Binding / Computed Properties | [R05]. [T06] | [N06], [A06] | [H06]
+W 10/15/25      | C07 - FarmData2 - Fetching Data                   | [R06]        |
+W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]            | [R07], [R08] |
+W 10/29/25      | C09 -                                             | [R09]        |
+W 11/05/25      | C10 -                                             | [R10]        |
+W 11/12/25      | C11 -                                             | [R11]        |
+W 11/19/25      | C12 - Project work                                | [R12]        |
+W 11/26/25      | Thanksgiving Break                                |              |
+W 12/03/25      | C13 - Project work                                | [R13]        |
+W 12/10/25      | C14 - Project work                                | [R14]        |
 &nbsp;          |
 Sat 12/20/25    | **9:00am Final Exam Slot**<br> FD2 Harvest Feature Hackathon                      
 
