@@ -33,9 +33,9 @@ W 09/17/25      | C03 - Vue Data Binding / List Rendering           | [R02], [T0
 W 09/24/25      | C04 - Vue Inputs / User Events                    | [R03], [T04] | [N04], [A04] | [H04]
 W 10/01/25      | C05 - Vue Methods / Conditional Rendering         | [R04], [T05] | [N05], [A05] | [H05]
 W 10/08/25      | C06 - Vue Attribute Binding / Computed Properties | [R05]. [T06] | [N06], [A06] | [H06]
-W 10/15/25      | C07 - FarmData2 - Fetching Data                   | [R06]        |
+W 10/15/25      | C07 - FarmData2 - Fetching Data                   | [R06], [T07] | [N07], [A07] | [H07]
 W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]            | [R07], [R08] |
-W 10/29/25      | C09 -                                             | [R09]        |
+W 10/29/25      | C09 - FarmData2 - Writing Data                    | [R09]        |
 W 11/05/25      | C10 -                                             | [R10]        |
 W 11/12/25      | C11 -                                             | [R11]        |
 W 11/19/25      | C12 - Project work                                | [R12]        |
@@ -71,13 +71,18 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [A05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Hands-On.md
 [H05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Application.md
 
-<!--
 [N06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Class-Notes.md
--->
 [T06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Tutorials.md
-<!--
 [A06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Hands-On.md
 [H06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Application.md
+
+<!--
+[N07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Class-Notes.md
+-->
+[T07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Tutorials.md
+<!--
+[A07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Hands-On.md
+[H07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Application.md
 -->
 
 [R01]: materials/readings/R01.md
@@ -85,7 +90,9 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [R03]: materials/readings/R03.md
 [R04]: materials/readings/R04.md
 [R05]: materials/readings/R05.md
-
+[R06]: materials/readings/R06.md
+[R07]: materials/readings/R07.md
+[R08]: materials/readings/R08.md
 
 [CompEd 2025]: https://comped.acm.org/2025/
 
