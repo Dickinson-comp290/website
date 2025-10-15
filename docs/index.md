@@ -79,7 +79,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 <!--
 [N07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Class-Notes.md
 -->
-[T07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Tutorials.md
+[T07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Tutorials.md
 <!--
 [A07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Hands-On.md
 [H07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Application.md
