@@ -35,7 +35,7 @@ W 10/01/25      | C05 - Vue Methods / Conditional Rendering         | [R04], [T0
 W 10/08/25      | C06 - Vue Attribute Binding / Computed Properties | [R05]. [T06] | [N06], [A06] | [H06]
 W 10/15/25      | C07 - FarmData2 - Fetching Data                   | [R06], [T07] | [N07], [A07] | [H07]
 W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]            | [R07], [R08] |
-W 10/29/25      | C09 - FarmData2 - Writing Data                    | [R09]        |
+W 10/29/25      | C09 - FarmData2 - Writing Data                    | [R09], [T08] | [N08], [A08] | [H08]
 W 11/05/25      | C10 -                                             | [R10]        |
 W 11/12/25      | C11 -                                             | [R11]        |
 W 11/19/25      | C12 - Project work                                | [R12]        |
@@ -76,13 +76,18 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [A06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Hands-On.md
 [H06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Application.md
 
-<!--
 [N07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Class-Notes.md
--->
 [T07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Tutorials.md
-<!--
 [A07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Hands-On.md
 [H07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Application.md
+
+<!--
+[N08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Class-Notes.md
+-->
+[T08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Tutorials.md
+<!--
+[A08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Hands-On.md
+[H08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Application.md
 -->
 
 [R01]: materials/readings/R01.md
