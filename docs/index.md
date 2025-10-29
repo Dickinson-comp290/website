@@ -36,9 +36,9 @@ W 10/08/25      | C06 - Vue Attribute Binding / Computed Properties | [R05]. [T0
 W 10/15/25      | C07 - FarmData2 - Fetching Data                   | [R06], [T07] | [N07], [A07] | [H07]
 W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]            | [R07], [R08] |
 W 10/29/25      | C09 - FarmData2 - Writing Data                    | [R09], [T08] | [N08], [A08] | [H08]
-W 11/05/25      | C10 -                                             | [R10]        |
-W 11/12/25      | C11 -                                             | [R11]        |
-W 11/19/25      | C12 - Project work                                | [R12]        |
+W 11/05/25      | C10 - FarmData2 - UI Components                   | [R10], [T09] | [N09], [A09] | [H09]
+W 11/12/25      | C11 - FarmData2 - Testing                         | [R11]        |
+W 11/19/25      | C12 - Code Review WiD                             | [R12]        |
 W 11/26/25      | Thanksgiving Break                                |              |
 W 12/03/25      | C13 - Project work                                | [R13]        |
 W 12/10/25      | C14 - Project work                                | [R14]        |
@@ -51,44 +51,48 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [A01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Hands-On.md
 [H01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Application.md
 
-[N02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Class-Notes.md
 [T02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Tutorials.md
+[N02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Class-Notes.md
 [A02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Hands-On.md
 [H02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Application.md
 
-[N03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Class-Notes.md
 [T03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Tutorials.md
+[N03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Class-Notes.md
 [A03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Hands-On.md
 [H03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Application.md
 
-[N04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Class-Notes.md
 [T04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Tutorials.md
+[N04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Class-Notes.md
 [A04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Hands-On.md
 [H04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Application.md
 
-[N05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Class-Notes.md
 [T05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Tutorials.md
+[N05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Class-Notes.md
 [A05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Hands-On.md
 [H05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Application.md
 
-[N06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Class-Notes.md
 [T06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Tutorials.md
+[N06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Class-Notes.md
 [A06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Hands-On.md
 [H06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Application.md
 
-[N07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Class-Notes.md
 [T07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Tutorials.md
+[N07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Class-Notes.md
 [A07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Hands-On.md
 [H07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Application.md
 
-<!--
-[N08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Class-Notes.md
--->
 [T08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Tutorials.md
-<!--
+[N08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Class-Notes.md
 [A08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Hands-On.md
 [H08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Application.md
+
+[T09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Tutorials.md
+<!--
+[N09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Class-Notes.md
+[A09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Hands-On.md
+[H09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Application.md
 -->
+
 
 [R01]: materials/readings/R01.md
 [R02]: materials/readings/R02.md
