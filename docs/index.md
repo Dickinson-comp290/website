@@ -103,6 +103,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [R07]: materials/readings/R07.md
 [R08]: materials/readings/R08.md
 [R09]: materials/readings/R09.md
+[R10]: materials/readings/R10.md
 
 [CompEd 2025]: https://comped.acm.org/2025/
 
