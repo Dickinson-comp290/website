@@ -38,7 +38,7 @@ W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]            | [R07], [R0
 W 10/29/25      | C09 - FarmData2 - Writing Data                    | [R09], [T08] | [N08], [A08] | [H08]
 W 11/05/25      | C10 - FarmData2 - UI Components                   | [R10], [T09] | [N09], [A09] | [H09]
 W 11/12/25      | C11 - FarmData2 - Testing                         | [R11], [T10] | [N10], [A10] | [H10]
-W 11/19/25      | C12 - Code Review WiD                             | [R12]        |
+W 11/19/25      | C12 - Bug Fix Pull Request (WiD)                             | [R12]        |
 W 11/26/25      | Thanksgiving Break                                |              |
 W 12/03/25      | C13 - Project work                                | [R13]        |
 W 12/10/25      | C14 - Project work                                | [R14]        |
