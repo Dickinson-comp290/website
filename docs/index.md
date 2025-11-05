@@ -43,7 +43,7 @@ W 11/26/25      | Thanksgiving Break                                |           
 W 12/03/25      | C13 - Project work                                | [R13]        |
 W 12/10/25      | C14 - Project work                                | [R14]        |
 &nbsp;          |
-Sat 12/20/25    | **9:00am Final Exam Slot**<br> FD2 Harvest Feature Hackathon                      
+Sat 12/20/25    | **9:00am Final Exam Slot**<br> FD2 Hackathon                      
 
 Note: Unlinked assignments and due dates are tentative and subject to change.
 
@@ -87,11 +87,9 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [H08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Application.md
 
 [T09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Tutorials.md
-<!--
 [N09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Class-Notes.md
 [A09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Hands-On.md
 [H09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Application.md
--->
 
 <!--
 [T10]: https://github.com/FarmData2/FD2-School-Materials/blob/main/10-FD4/10-FD4-Tutorials.md
