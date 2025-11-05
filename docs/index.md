@@ -91,8 +91,8 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [A09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Hands-On.md
 [H09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Application.md
 
-<!--
 [T10]: https://github.com/FarmData2/FD2-School-Materials/blob/main/10-FD4/10-FD4-Tutorials.md
+<!--
 [N10]: https://github.com/FarmData2/FD2-School-Materials/blob/main/10-FD4/10-FD4-Class-Notes.md
 [A10]: https://github.com/FarmData2/FD2-School-Materials/blob/main/10-FD4/10-FD4-Hands-On.md
 [H10]: https://github.com/FarmData2/FD2-School-Materials/blob/main/10-FD4/10-FD4-Application.md
