@@ -14,6 +14,7 @@
 - [Running the FarmData2 Development Environment](https://github.com/FarmData2/FarmData2/blob/development/docs/install/codespaces.md)
 - [Git/GitHub Command Reference](https://github.com/FarmData2/FD2-School-Materials/blob/main/GitReference/GitReference.md)
 - [FarmData2 Command Reference](https://github.com/FarmData2/FD2-School-Materials/blob/main/FD2CommandReference.md)
+- [Cypress Testing Reference](https://github.com/FarmData2/FD2-School-Materials/blob/main/CypressReference.md)
 
 ## COMP 290 Outline
 
