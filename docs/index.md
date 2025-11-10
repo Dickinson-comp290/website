@@ -111,6 +111,9 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [R09]: materials/readings/R09.md
 [R10]: materials/readings/R10.md
 [R11]: materials/readings/R11.md
+[R12]: materials/readings/R12.md
+[R13]: materials/readings/R13.md
+[R14]: materials/readings/R14.md
 
 [CompEd 2025]: https://comped.acm.org/2025/
 
