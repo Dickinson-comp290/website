@@ -42,7 +42,7 @@ W 11/05/25      | C10 - FarmData2 - UI Components                   | [R10], [T0
 W 11/12/25      | C11 - FarmData2 - Testing                         | [R11], [T10] | [N10], [A10] | [H10]
 W 11/19/25      | C12 - Bug Fix Pull Request (WiD)                  | [R12], [T11] | [N11], [A11] | [H11], [W01]
 W 11/26/25      | Thanksgiving Break                                |              |
-W 12/03/25      | C13 - Project work                                | [R13]        |
+W 12/03/25      | C13 - Project work                                | [R13]        | [A12]        | [H12]
 W 12/10/25      | C14 - Project work                                | [R14]        |
 &nbsp;          |
 Sat 12/20/25    | **9:00am Final Exam Slot**<br> FD2 Hackathon                      
@@ -102,6 +102,10 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [N11]: https://github.com/FarmData2/FD2-School-Materials/blob/main/11-OSS1/11-OSS1-Class-Notes.md
 [A11]: https://github.com/FarmData2/FD2-School-Materials/blob/main/11-OSS1/11-OSS1-Hands-On.md
 [H11]: https://github.com/FarmData2/FD2-School-Materials/blob/main/11-OSS1/11-OSS1-Application.md
+
+[A12]: https://github.com/FarmData2/FD2-School-Materials/blob/main/12-OSS2/12-OSS2-Hands-On.md
+[H12]: https://github.com/FarmData2/FD2-School-Materials/blob/main/12-OSS2/12-OSS2-Project.md
+
 [W01]: ./materials/W01.md
 
 [R01]: materials/readings/R01.md
