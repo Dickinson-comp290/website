@@ -133,9 +133,9 @@ The WiD assignment score will be assigned as follows:
 
 Score | Criteria
 ------|-------------
-3     | The PR review clearly and concisely addresses all key issues and would be very helpful to the contributor in improving the PR.
+3     | The issue, comments and pull requests meet all of the criteria for high quality as given in the assignment.
 2     | Nominal score (neither 3 nor 1).
-1     | The PR review misses multiple key issues and/or would require significant clarification before it would be helpful to the contributor in improving the PR.
+1     | The issue, comment or pull request are missing important elements or multiple elements are of insufficient quality.
 0     | Submission is missing or late.
 
 Notes:
