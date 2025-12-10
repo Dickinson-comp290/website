@@ -106,7 +106,7 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [A12]: https://github.com/FarmData2/FD2-School-Materials/blob/main/12-OSS2/12-OSS2-Hands-On.md
 [H12]: https://github.com/FarmData2/FD2-School-Materials/blob/main/12-OSS2/12-OSS2-Project.md
 
-[H13]:  https://github.com/FarmData2/FD2-School-Materials/blob/main/13-OSS3/13-OSS3-Project.md
+[H13]: https://github.com/FarmData2/FD2-School-Materials/blob/main/13-OSS3/13-OSS3-Project.md
 
 [W01]: ./materials/W01.md
 
