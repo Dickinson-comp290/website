@@ -45,7 +45,7 @@ W 11/26/25      | Thanksgiving Break                                |           
 W 12/03/25      | C13 - Project work                                | [R13]        | [A12]        | [H12]
 W 12/10/25      | C14 - Project work                                | [R14], [H12] | [H12], [H13] | [H13]
 &nbsp;          |
-Sat 12/20/25    | **9:00am Final Exam Slot**<br> FD2 Hackathon      | [H13]        | [FD2 Hackathon]       
+Sat 12/20/25    | **9:00am or 2:00pm Final Exam Slot**<br> FD2 Hackathon      | [H13]        | [FD2 Hackathon]       
 
 Note: Unlinked assignments and due dates are tentative and subject to change.
 
