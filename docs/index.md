@@ -45,7 +45,7 @@ W 11/26/25      | Thanksgiving Break                                |           
 W 12/03/25      | C13 - Project work                                | [R13]        | [A12]        | [H12]
 W 12/10/25      | C14 - Project work                                | [R14], [H12] | [H12], [H13] | [H13]
 &nbsp;          |
-Sat 12/20/25    | **9:00am or 2:00pm Final Exam Slot**<br> FD2 Hackathon      | [H13]        | [FD2 Hackathon]       
+Sat 12/20/25    | **9:00am or 2:00pm Final Exam**<br> FD2 Hackathon      | [H13]        | [FD2 Hackathon]       
 
 Note: Unlinked assignments and due dates are tentative and subject to change.
 
@@ -107,6 +107,8 @@ Note: Unlinked assignments and due dates are tentative and subject to change.
 [H12]: https://github.com/FarmData2/FD2-School-Materials/blob/main/12-OSS2/12-OSS2-Project.md
 
 [H13]: https://github.com/FarmData2/FD2-School-Materials/blob/main/13-OSS3/13-OSS3-Project.md
+
+[FD2 Hackathon]: https://github.com/FarmData2/FD2-School-Materials/blob/main/14-FD2-Hackathon/14-FD2-Hackathon.md
 
 [W01]: ./materials/W01.md
 
