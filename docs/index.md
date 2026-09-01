@@ -1,133 +1,68 @@
 ## COMP 290 Course Information
-- Fall Semester 2025
+- Fall Semester 2026
   - Section 01 - W 1:30-2:45, Tome 231
 - [Syllabus & Course Information](syllabus.md)
 - [Prof. Braught's Page](http://users.dickinson.edu/~braught/) - with office hours.
 
 ## Communication
 
-- [Microsoft Team](https://teams.microsoft.com/l/team/19%3AuTqtmwXMZDfh50-FVnF1iyiv8eVS4GrvhNJKwN6KTLs1%40thread.tacv2/conversations?groupId=7b6ae7d2-39d8-43fe-8ccf-7f28e8bf428b&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
-- [FarmData2 Zulip Chat](https://farmdata2.zulipchat.com/)
+- [Microsoft Team](https://teams.cloud.microsoft/l/team/19%3AXMqL60NN7IG1jNu1iUf9Ay1JJ80E2mgxn1rhzlromiQ1%40thread.tacv2/conversations?groupId=cad5a9e9-6d6f-413c-8edf-5620ba787879&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
+<!-- - [FarmData2 Zulip Chat](https://farmdata2.zulipchat.com/) -->
 
 ## Resources
 
-- [Running the FarmData2 Development Environment](https://github.com/FarmData2/FarmData2/blob/development/docs/install/codespaces.md)
-- [Git/GitHub Command Reference](https://github.com/FarmData2/FD2-School-Materials/blob/main/GitReference/GitReference.md)
-- [FarmData2 Command Reference](https://github.com/FarmData2/FD2-School-Materials/blob/main/FD2CommandReference.md)
-- [Cypress Testing Reference](https://github.com/FarmData2/FD2-School-Materials/blob/main/CypressReference.md)
+- [Vue3-WebDev-F26 Repo](https://github.com/Dickinson-comp290/Vue3-WebDev-F26)
+<!-- - FarmDat2-School Repo -->
+- [Copilot Usage](https://github.com/settings/billing/ai_usage)
+- [Copilot Models and Pricing for GitHub](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing)
+
+## Recommended Events
+
+- [Can a Computer Program Think Like a Human?](https://www.clarkeforum.org/tuesday-september-29-2026/) (Tuesday September 29, 7pm ATS)
+- [An Evening with Dr. Ayana Elizabeth Johnson](https://www.dickinson.edu/ayanaelizabethjohnson) (Tuesday October 27, 7pm ATS)
+- [Ethics and AI](https://tinyurl.com/dson-ethics-ai-2026) (Thursday October 29, 5:30-7:30 Stern - Registration Required)
+- [y code when ai?](https://www.clarkeforum.org/wednesday-november-11-2026-joseph-priestley-award-celebration-lecture/) (Wednesday November 11, 7pm ATS)
 
 ## COMP 290 Outline
 
-Key:
-- __R__: Reading assignment for the class discussion.
-- __T__: Tutorial assignment to be submitted before class.
-- __N__: Notes used by the instructor in class.
-- __A__: Activity done during class.
-- __H__: Homework due before the following class.
-- __W__: The WiD assignment for the course.
-
-Date            | Class Information                                 | Before Class | During Class | After Class
-----------------|---------------------------------------------------|--------------|--------------|-------------
-&nbsp;          | **FarmData2 and Web Development**                 |              |              |
-W 09/03/25      | C01 - Introduction                                |              | [N01], [A01] | [H01]
-W 09/10/25      | C02 - HTML / CSS                                  | [R01], [T02] | [N02], [A02] | [H02]
-W 09/17/25      | C03 - Vue Data Binding / List Rendering           | [R02], [T03] | [N03], [A03] | [H03] 
-W 09/24/25      | C04 - Vue Inputs / User Events                    | [R03], [T04] | [N04], [A04] | [H04]
-W 10/01/25      | C05 - Vue Methods / Conditional Rendering         | [R04], [T05] | [N05], [A05] | [H05]
-W 10/08/25      | C06 - Vue Attribute Binding / Computed Properties | [R05]. [T06] | [N06], [A06] | [H06]
-W 10/15/25      | C07 - FarmData2 - Fetching Data                   | [R06], [T07] | [N07], [A07] | [H07]
-W 10/22/25      | C08 - No Class - Prof at [CompEd 2025]            | [R07], [R08] |
-W 10/29/25      | C09 - FarmData2 - Writing Data                    | [R09], [T08] | [N08], [A08] | [H08]
-W 11/05/25      | C10 - FarmData2 - UI Components                   | [R10], [T09] | [N09], [A09] | [H09]
-W 11/12/25      | C11 - FarmData2 - Testing                         | [R11], [T10] | [N10], [A10] | [H10]
-W 11/19/25      | C12 - Bug Fix Pull Request (WiD)                  | [R12], [T11] | [N11], [A11] | [H11], [W01]
-W 11/26/25      | Thanksgiving Break                                |              |
-W 12/03/25      | C13 - Project work                                | [R13]        | [A12]        | [H12]
-W 12/10/25      | C14 - Project work                                | [R14], [H12] | [H12], [H13] | [H13]
-&nbsp;          |
-Sat 12/20/25    | **9:00am or 2:00pm Final Exam**<br> FD2 Hackathon      | [H13]        | [FD2 Hackathon]       
+Date            | Class Information                                 | Assigned             | 
+----------------|---------------------------------------------------|----------------------|
+&nbsp;          | **Web Development with Vue.js 3***                |                      |
+W 09/02/26      | C01 - HTML/CSS/JS                                 | [T01]                |
+W 09/09/26      | C02 - Vue 1                                       | [E01], [T02]         |
+W 09/16/26      | C03 - Vue 2                                       | [E02]. [T03]         |
+W 09/23/26      | C04 - Vue 3                                       | [E03], [T04], [RD01] |
+W 09/30/26      | C05 - Vue 4 - Reading & Discussion 1              | [E04], [T05]         |
+W 10/07/26      | C06 - Cypress Testing                             | [E05], [T06]         |
+W 10/14/26      | C07 - API Calls                                   | [E06]                |
+&nbsp;          | **FarmData2 School (Onboarding)**                 |                      |
+W 10/21/26      | C08 - FD2 School 1 (Farm Visit???)                | [F01]                |
+W 10/28/26      | C09 - FD2 School 2                                | [F02], [RD02]        |
+W 11/04/26      | C10 - FD2 School 3 - Reading & Discussion 2       | [F03]                |
+W 11/11/26      | C11 - FD2 School 4                                | [F04]                |
+&nbsp;          | **Project Work**                                  |                      |
+W 11/18/26      | C12 - Project Work 1                              | [P01], [RD03]        |
+W 11/25/26      | Thanksgiving Break                                |                      |
+W 12/02/26      | C13 - Project Work 2 - Reading & Discussion 3     | [P02]                |
+W 12/09/26      | C14 - Project Work 3                              | [P03]                |
+&nbsp;          |                                                   |                      |
+S 12/19/26      | 2:00pm - Final Exam Period                        |                      |
 
 Note: Unlinked assignments and due dates are tentative and subject to change.
 
-[N01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Class-Notes.md
-[A01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Hands-On.md
-[H01]: https://github.com/FarmData2/FD2-School-Materials/blob/main/01-Introduction/01-Intro-Application.md
+Key:
+- __R__: Reading assignment for discussion in the next class.
+- __T__: Tutorial assignment due before the next class.
+- __E__: Extensions to the Tutorial assignment started in class due before the next class 
+- __F__: FarmData2 onboarding assignment due before the next class.
+- __P__: Project work on FarmData2.
+- __W__: The WiD assignment for the course.
 
-[T02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Tutorials.md
-[N02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Class-Notes.md
-[A02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Hands-On.md
-[H02]: https://github.com/FarmData2/FD2-School-Materials/blob/main/02-HTML-CSS/02-HTML-CSS-Application.md
-
-[T03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Tutorials.md
-[N03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Class-Notes.md
-[A03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Hands-On.md
-[H03]: https://github.com/FarmData2/FD2-School-Materials/blob/main/03-Vue1/03-Vue1-Application.md
-
-[T04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Tutorials.md
-[N04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Class-Notes.md
-[A04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Hands-On.md
-[H04]: https://github.com/FarmData2/FD2-School-Materials/blob/main/04-Vue2/04-Vue2-Application.md
-
-[T05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Tutorials.md
-[N05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Class-Notes.md
-[A05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Hands-On.md
-[H05]: https://github.com/FarmData2/FD2-School-Materials/blob/main/05-Vue3/05-Vue3-Application.md
-
-[T06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Tutorials.md
-[N06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Class-Notes.md
-[A06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Hands-On.md
-[H06]: https://github.com/FarmData2/FD2-School-Materials/blob/main/06-Vue4/06-Vue4-Application.md
-
-[T07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Tutorials.md
-[N07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Class-Notes.md
-[A07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Hands-On.md
-[H07]: https://github.com/FarmData2/FD2-School-Materials/blob/main/07-FD1/07-FD1-Application.md
-
-[T08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Tutorials.md
-[N08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Class-Notes.md
-[A08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Hands-On.md
-[H08]: https://github.com/FarmData2/FD2-School-Materials/blob/main/08-FD2/08-FD2-Application.md
-
-[T09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Tutorials.md
-[N09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Class-Notes.md
-[A09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Hands-On.md
-[H09]: https://github.com/FarmData2/FD2-School-Materials/blob/main/09-FD3/09-FD3-Application.md
-
-[T10]: https://github.com/FarmData2/FD2-School-Materials/blob/main/10-FD4/10-FD4-Tutorials.md
-[N10]: https://github.com/FarmData2/FD2-School-Materials/blob/main/10-FD4/10-FD4-Class-Notes.md
-[A10]: https://github.com/FarmData2/FD2-School-Materials/blob/main/10-FD4/10-FD4-Hands-On.md
-[H10]: https://github.com/FarmData2/FD2-School-Materials/blob/main/10-FD4/10-FD4-Application.md
-
-[T11]: https://github.com/FarmData2/FD2-School-Materials/blob/main/11-OSS1/11-OSS1-Tutorials.md
-[N11]: https://github.com/FarmData2/FD2-School-Materials/blob/main/11-OSS1/11-OSS1-Class-Notes.md
-[A11]: https://github.com/FarmData2/FD2-School-Materials/blob/main/11-OSS1/11-OSS1-Hands-On.md
-[H11]: https://github.com/FarmData2/FD2-School-Materials/blob/main/11-OSS1/11-OSS1-Application.md
-
-[A12]: https://github.com/FarmData2/FD2-School-Materials/blob/main/12-OSS2/12-OSS2-Hands-On.md
-[H12]: https://github.com/FarmData2/FD2-School-Materials/blob/main/12-OSS2/12-OSS2-Project.md
-
-[H13]: https://github.com/FarmData2/FD2-School-Materials/blob/main/13-OSS3/13-OSS3-Project.md
-
-[FD2 Hackathon]: https://github.com/FarmData2/FD2-School-Materials/blob/main/14-FD2-Hackathon/14-FD2-Hackathon.md
-
-[W01]: ./materials/W01.md
-
-[R01]: materials/readings/R01.md
-[R02]: materials/readings/R02.md
-[R03]: materials/readings/R03.md
-[R04]: materials/readings/R04.md
-[R05]: materials/readings/R05.md
-[R06]: materials/readings/R06.md
-[R07]: materials/readings/R07.md
-[R08]: materials/readings/R08.md
-[R09]: materials/readings/R09.md
-[R10]: materials/readings/R10.md
-[R11]: materials/readings/R11.md
-[R12]: materials/readings/R12.md
-[R13]: materials/readings/R13.md
-[R14]: materials/readings/R14.md
-
-[CompEd 2025]: https://comped.acm.org/2025/
+[T01]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/1
+[E01]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/2
+[T02]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/3
+[E02]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/4
+[T03]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/5
 
 ---
 
