@@ -27,7 +27,7 @@
 
 Date            | Class Information                                 | Assigned            | 
 ----------------|---------------------------------------------------|---------------------|
-&nbsp;          | **Web Development with Vue.js 3**                 |                     |
+&nbsp;          | **Web Development with Vue.js**                   |                     |
 W 09/02/26      | C01 - HTML/CSS/JS                                 | [T01]               |
 W 09/09/26      | C02 - Vue 1                                       | [E01], [T02]        |
 W 09/16/26      | C03 - Vue 2                                       | [E02]. [T03]        |
@@ -35,12 +35,12 @@ W 09/23/26      | C04 - Vue 3                                       | [E03], [T0
 W 09/30/26      | C05 - Vue 4 - Reading & Discussion 1              | [E04], [T05]        |
 W 10/07/26      | C06 - Cypress Testing                             | [E05], [T06]        |
 W 10/14/26      | C07 - API Calls                                   | [E06]               |
-&nbsp;          | **FarmData2 School (Onboarding)**                 |                     |
+&nbsp;          | **FarmData2 Onboarding**                          |                     |
 W 10/21/26      | C08 - FD2 School 1 (Farm Visit???)                | [F01]               |
 W 10/28/26      | C09 - FD2 School 2                                | [F02], [R02]        |
 W 11/04/26      | C10 - FD2 School 3 - Reading & Discussion 2       | [F03]               |
 W 11/11/26      | C11 - FD2 School 4                                | [F04]               |
-&nbsp;          | **Project Work**                                  |                     |
+&nbsp;          | **FarmData2 Project Work**                        |                     |
 W 11/18/26      | C12 - Project Work 1                              | [P01], [R03]        |
 W 11/25/26      | Thanksgiving Break                                |                     |
 W 12/02/26      | C13 - Project Work 2 - Reading & Discussion 3     | [P02]               |
