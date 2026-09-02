@@ -27,7 +27,7 @@
 
 Date            | Class Information                                 | Assigned            | 
 ----------------|---------------------------------------------------|---------------------|
-&nbsp;          | **Web Development with Vue.js 3***                |                     |
+&nbsp;          | **Web Development with Vue.js 3**                 |                     |
 W 09/02/26      | C01 - HTML/CSS/JS                                 | [T01]               |
 W 09/09/26      | C02 - Vue 1                                       | [E01], [T02]        |
 W 09/16/26      | C03 - Vue 2                                       | [E02]. [T03]        |
