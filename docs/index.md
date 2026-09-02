@@ -13,11 +13,10 @@
 
 - [Vue3-WebDev-F26 Repo](https://github.com/Dickinson-comp290/Vue3-WebDev-F26)
 <!-- - FarmDat2-School Repo -->
-<!--
-- [Copilot Usage](https://github.com/settings/billing/ai_usage)
-- [Copilot Models and Pricing for GitHub](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing)
-  - **The GPT-5.3 Luna Model is highly recommended.**
--->
+<!-- - [Copilot Usage](https://github.com/settings/billing/ai_usage) -->
+<!-- - [Copilot Models and Pricing for GitHub](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing) -->
+  <!-- - **The GPT-5.3 Luna Model is highly recommended.** -->
+
 
 ## Recommended Events
 
