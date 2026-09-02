@@ -34,117 +34,86 @@ If you feel at any time that these ideals are not being met or have ways that ou
 
 ### Communications
 
-All communications outside of in person meetings will occur via Teams, Zulip or GitHub. Communication in public channels is preferred.  However, sensitive conversations should be initiated as a private chat on Teams. Please do not send e-mails.
+All communications outside of in person meetings will occur via Teams, Zulip or GitHub. Communication in public channels (Zulip/GitHub) is preferred.  However, sensitive conversations should be initiated as a private chat on Teams. Please do not send e-mails.
 
 ### Office Hours
 
 A list of my office hours and availability is provided on my home page (https://users.dickinson.edu/~braught/). If you have conflicts with my regularly scheduled office hours or would like to schedule a separate meeting please message me on Teams. Please do not send e-mails.
 
+### Time Commitment
+
+You should allocate 3-4 hours per week outside of class for this course. Some weeks will require less. Others may require more, particularly if you encounter difficulties. Please allocate enough time in your schedule for work on this course. This is expectation is consistent with [Dickinson’s standard](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedure) that "at least three hours of study accompany each class period".  
+
+If you find that you are spending significantly longer than the expected time to complete the required work, please reach out to your instructor to discuss strategies for reducing the time required.
+
 ### Course Structure
 
-The first part of the course (approximately 3/4 of the semester) will be devoted to learning web development with HTML/CSS and Vue.js, and onboarding to the FarmData2 project. This part of the course will be run as a combination of readings and class discussions, completing on-line tutorials, working on hands-on activities in class, and applying what you learn in homework assignments. The second part of the course (the final 1/4 of the semester) will be devoted to building a feature in the FarmData2 project.
+This course is divided into three sections "Web Development with Vue.js", "FarmData2 Onboarding" and "FarmData2 Project Work". Each of those sections contains technical work and a reading and discussion period. In addition there will be one Writing in the Discipline (WiD) assignment given during the semester.  More details are given in the following sections.
 
-#### Time Commitment
+#### Web Development with Vue.js
 
-You should allocate 3-4 hours per week outside of class for this course. Some weeks will require less. Others, if you encounter difficulties, may require more. Please allocate enough time in your schedule for work on this course. This is consistent with [Dickinson’s standard](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedure) that "at least three hours of study accompany each class period".  
+This section of the course provides the foundational knowledge and skills necessary for contribution to the FarmData2 project. You will complete a set of tutorials that introduce you to the basics of web development and Vue.js while building independent learning skills that are essential in computing. Each tutorial is followed by an extensions that gives you practice applying the material from the tutorial. In addition, the extensions gradually introduce the use of AI tools into the software development process. Reflecting on the impact of these AI tools on both your work and your learning helps to develop habits of responsible AI use.
 
-The readings, tutorials and homework assignments to be completed outside of class are targeted to take approximately the following amount of time:
-- Readings (20 - 30 minutes)
-- Tutorials (60 - 90 minutes)
-- Homework (90 - 120 minutes)
+#### FarmData2 Onboarding
 
-If you find the activities are taking significantly longer than the expected time, please reach out to your instructor to discuss strategies for reducing the time required.
+This section of the course introduces you to FarmData2 and orients you to the codebase. A set of activities guide you through the creation of a small feature. This process highlights each part of the FarmData2 architecture, illustrates how they fit together and provides experience working in a large code base.
+
+#### FarmData2 Project Work
+
+In this section of the course you will work in teams to make contributions to the FarmData2 project. The issues and features that you work on will be drawn from the live project. Teams producing high quality solutions will be encouraged to make pull requests to propose their work for merging into the live project.
 
 #### Readings & Discussions
 
-A short reading on an open source, software engineering or contemporary social/legal/ethical issues in computing will be assigned prior to most class meetings.  The class meeting will begin with a class discussion of that reading. You are expected to do the readings in advance and come to class prepared to contribute to the discussion. Note that while everyone is expected to prepare for and be engaged during every discussion, it is not required that everyone contribute to every discussion. However, you are expected to contribute regularly enough to demonstrate you are preparing and engaging with the materials. Students who are failing to demonstrate sufficient engagement or participation will be given updates and suggestions for improvement.
-
-To prepare for class discussions you might:
-- Identify the main terms that are defined in the readings and any questions you have about them.
-- Identify the main points that are made by the reading.
-- Think about your position on any controversial or unsettled issues that are raised in the reading.
-- Note things that you found interesting and prepare questions about them that you may want to ask your classmates.
-
-#### Tutorials
-
-On-line tutorials will be used to introduce new technologies. Each tutorial will guide you through the construction of some small artifact using the technology being learned. Following these tutorials will help you to develop the type of independent learning skills that are a necessity in computing.
-
-#### In-Class Activities
-
-In-class hands-on activities will build upon the learning from the tutorials that were completed prior to class. They will add content and challenge you to apply what you learned in different ways. These activities will help you to generalize what you have learned from the tutorials.
-
-#### Homework Assignments
-
-The homework assignment for a topic will follow the in-class activities. These assignments are less structured and are designed to give you practice applying what you have learned in the tutorials and expanded and generalized in the in-class activities. The homework assignments build upon each other to create a prototype for a feature in FarmData2.
-
-The instructor's solution to each homework will be given as starter code for the next homework assignment. You will then complete the homework beginning from the starter code. Working from the given solution rather than from your own prior solution gives practice with reading and adapting code written by others, a skill that is essential in large scale software development.
-
-#### Project Work
-
-The final part of the semester will consist of team project work on part of a full feature in FarmData2. The full feature will be decomposed into smaller tasks, with each task being assigned to a different team. Each team will be responsible for implementing and testing the portion of the feature that is assigned to them.
-
-During this portion of the course it is expected that each team member will participate in a weekly teem meeting during the class period. In these meetings the team will summarize what they have accomplished during the week, anything they are stuck on, and what they plan to accomplish during the next week. It is the team's responsibility to organize its work such that each team member has can make a demonstrable contribution to the work each week.
+Our readings and discussions will focus topics important to open source, software engineering and contemporary social/legal/ethical issues in computing and will vary from semester to semester. Readings and a set of discussion questions will be posted one week in advance of the discussion. You are expected to do the readings, prepare notes to aid your participation and to contribute to the discussion. Additional details will be provided with the reading assignments linked in the course web site.
 
 #### Writing in the Discipline (WiD)
 
-This course is part of the WiD thread through the Computer Science major. There will be one assignment given between the first and second part of the course where you will review a Pull Request (PR). Reviewing pull requests are a regular part of the work of project maintainers and team members.
+This course is part of the WiD thread through the Computer Science major. There will be one assignment given during the semester that requires you to commit something that you have written to your WiD repository.  The details of the WiD assignment will be given in an assignment linked in the course schedule.
 
 ### Grading
 
-The COMP 290 course is graded as a Credit/No Credit course (see [Dickinson's Academic Policies and Procedures](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedures.pdf)).  The sections below explain how each component of the course is scored and what is required to receive credit for the course as a whole.
+The COMP 290 course is graded as a Credit/No Credit course (see [Dickinson's Academic Policies and Procedures](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedures.pdf)). The sections below explain how each component of the course is scored and what is required to receive credit for the course as a whole. 
+
+If at any time you receive a score that you feel does not accurately reflect the quality of your work discuss it with the instructor.
+
+#### Tutorials, Extensions, and Onboarding
+
+Each tutorial, extension and onboarding assignment will be submitted by making a Pull Request on GitHub. Each tutorial, extension and onboarding pull request will be assigned a score using the following criteria.
+
+Score | Criteria
+------|-------------
+3     | The submission is correct, complete, and follows the workflow steps.
+2     | Nominal score (neither 3 nor 1).
+1     | The submission is incorrect, missing multiple elements, and/or does not follow the workflow steps.
+0     | Submission is missing or late.
+
+Pull requests that are submitted late will receive only a cursory review and will receive a maximum score of 1.
 
 #### Class Engagement
 
-A class engagement score will be assigned for each class meeting.  This score will include engagement in the discussion of any assigned readings as well as participation in the day's hands-on activities. 
-
-Class Engagement scores will be assigned as follows:
+A class engagement score will be assigned using the following criteria for each class meeting in which you are completing technical work (e.g. extensions, onboarding or project work).
 
 Score | Criteria
 ------|-------------
-3     | Observed as fully and actively engaged in both discussion and in-class activities.
+3     | Observed as fully and actively engaged throughout the class period.
 2     | Nominal score (neither 3 nor 1).
-1     | Observed as repeatedly inattentive or disengaged during discussion or in-class activities.
-0     | Absent
+1     | Observed repeatedly as disengaged during the class period.
+0     | Absent.
 
-#### Tutorials and Homework
+#### Reading & Discussion
 
-Each tutorial and each homework assignment will be submitted by making a Pull Request on GitHub.  Your PR will be reviewed and will receive feedback and a score reflecting the quality, completeness and timeliness of the submission.
-
-Tutorial and Homework scores will be assigned as follows:
+A reading and discussion scores will be assigned using the following criteria for each class meeting in which we have a discussion.
 
 Score | Criteria
-------|-------------
-3     | The submission is easily determined to be correct, complete, and is broken in to logical commits.
-2     | Nominal score (neither 3 nor 1).
-1     | The submission is missing multiple elements of the assignment and/or the commits do not sufficiently demonstrate an incremental development of the solution.
-0     | Submission is missing or late.
-
-Notes:
-- Neatness, organization, and readability of the code, as well as consistent naming conventions and choice of appropriate program structures contribute heavily to the ability of the instructor to easily determine the correctness and completeness of a submission. Think about writing your code for another human reader rather than simply to make it work.
-- Completing work on time is an important professional disposition and is is respectful of your instructor's time. Thus, late work will not be accepted.
-
-##### Homework Resubmission
-
-If you receive a score of 1 or 2 on a homework assignment you may resubmit within 1 week of receiving feedback. To resubmit, make changes to your code that address the feedback, commit the changes to your feature branch and push it to your origin to update your PR. Resubmission is not required. But if your resubmission is sufficient your score will be raised by one level (i.e. from 1 to 2 or from 2 to 3).  Note that only homework may be resubmitted, tutorials may not be resubmitted.
-
-#### Writing in the Discipline (WiD) Assignment
-
-The WiD assignment score will be assigned as follows:
-
-Score | Criteria
-------|-------------
-3     | The issue, comments and pull requests meet all of the criteria for high quality as given in the assignment.
-2     | Nominal score (neither 3 nor 1).
-1     | The issue, comment or pull request are missing important elements or multiple elements are of insufficient quality.
-0     | Submission is missing or late.
-
-Notes:
-- A score of 2 or 3 is required to receive credit for this assignment toward completion of the Computer Science WiD requirement.
-- A PR Review receiving a score of 1 may be revised and resubmitted after seeking feedback from the instructor. If adequate revision is made the score will be adjusted to a 2.
+------|----------
+3     | Clearly well prepared.<br>Contributed meaningfully to discussion.<br>Submitted thoughtfully prepared notes. 
+2     | Nominal Score (neither 3 nor 1).
+1     | Present and attentive.<br>Did not make meaningful contributions to discussion.<br>Did not submit adequate notes.
+0     | Absent.
 
 #### Project Work
 
-Project work scores will be assigned as follows:
+A project work scores will be assigned each week using the following criteria.
 
 Score | Criteria
 ------|-------------
@@ -156,13 +125,19 @@ Score | Criteria
 Note:
 - Evidence of contribution may come from participation in the discussion during the team meeting, attestations from teammates about contribution, activity in the discussion of the team's issue(s) or pull requests in GitHub, interaction with the instructor outside of class, and/or commits to the team's repository.
 
+#### Writing in the Discipline (WiD) Assignment
+
+A score of 2 or 3 is required to receive credit for the WiD assignment toward completion of the Computer Science WiD requirement. A submission receiving a score of 1 may be revised and resubmitted after seeking feedback from the instructor. If adequate revision is made the score will be adjusted to a 2. Specific criteria for the score will be provided with the assignment.
+
 #### Course Credit
 
 When determining course credit:
-- the lowest two scores for class engagement, tutorials and homework will be dropped. 
-- the lowest score for project work will be dropped.
+- the two lowest tutorials, extensions and onboarding scores will be dropped.
+- the two lowest class engagement scores will be dropped. 
+- the lowest reading and discussion score will be dropped.
+- the lowest project work score will be dropped.
 
-With those scores dropped the average score for each of class engagement, tutorials, homework, and project work must be greater than or equal to 2.00, and a submission must have been made for the WiD assignment.
+To receive course credit the averages of the remaining scores for each of tutorials, extensions and onboarding, class engagement, reading and discussion, and project work must be greater than or equal to 2.00, and a submission must have been made for the WiD assignment.
 
 ### Academic Integrity
 
@@ -172,15 +147,13 @@ The specific policies for COMP290 are detailed below. If you are unsure about wh
 
 #### Collaboration
 
-Tutorials, homework and the WiD assignment are individual assignments.  All work submitted must be your own work. Sharing or receiving of full or partial solutions to assignments is not permitted.
+All tutorials, extensions, onboarding assignments and the WiD assignment are individual. Each student must create and submit their own solution. Constructive conversation that facilitates learning is acceptable and encouraged. However, the sharing or receiving of full or partial solutions from others is not permitted. 
 
-The hands-on in-class activities are not collected or assessed (apart from the Class Engagement score). Students are encouraged to collaborate on these activities in pairs or small groups.
-
-Project work will be team based. All work submitted must be the work of individuals on the team. Sharing or receiving of full or partial solutions to assignments is not permitted.
+Project work is team based. Teammates are expected to fully collaborate with and assist their own teammates. All work submitted must be the work of individuals on the team. Sharing or receiving of full or partial solutions to assignments from outside the team is not permitted.
 
 #### Use of AI
 
-AI coding assistants are now an integral part of a software developer's tool kit. An AI assistant will be introduced in this course. After its introduction students will be permitted to use it on any assignment.  It can be used to dialog ideas, concepts, program statements to better understand them as well as to perform code completion or code generation. Opportunities will be given to discuss your uses of the AI assistant and to share what you have found useful and not useful.
+For tutorials only inline autocompletion may be used.  AI tools may be used in extensions only in the ways that are explicitly described in the extension. All of AI tools introduced may be used during the project work so long as the work complies with the AI Policy of the FarmData2 project. Permissible uses of AI for the WiD assignment will be described in the assignment linked from the course schedule.
 
 ### Intellectual Property Rights
 
@@ -198,7 +171,7 @@ The room in which this class meets and my office are both located on the second 
 
 ### SOAR: Academic Success Support and More
 
-SOAR stands for __S__trategies, __O__rganization, & __A__chievement __R__esources, and students can find a wealth of strategic academic success tools (like weekly planners, semester calendars, and much more) at [www.dickinson.edu/SOAR](https://www.dickinson.edu/SOAR) or by going to Old West's Lower Level (aka "the OWLL"). Online or in person, you'll find useful resources related to organization, study skills, memory strategies, note-taking, test-taking, etc. If you’d like to attend a SOAR workshop or request one-on-one assistance with developing a strategy for a manageable and academically successful semester, email SOAR@dickinson.edu, or go to the OWLL to SOAR!
+SOAR stands for Strategies, Organization, & Achievement Resources, and students can find a wealth of strategic academic success tools (like weekly planners, semester calendars, and much more) at [www.dickinson.edu/SOAR](https://www.dickinson.edu/SOAR) or by going to Old West's Lower Level (aka "the OWLL"). Online or in person, you'll find useful resources related to organization, study skills, memory strategies, note-taking, test-taking, etc. If you’d like to attend a SOAR workshop or request one-on-one assistance with developing a strategy for a manageable and academically successful semester, email SOAR@dickinson.edu, or go to the OWLL to SOAR!
 
 ### Life Happens
 
