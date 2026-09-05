@@ -132,7 +132,7 @@ A score of 2 or 3 is required to receive credit for the WiD assignment toward co
 #### Course Credit
 
 When determining course credit:
-- the two lowest tutorials, extensions and onboarding scores will be dropped.
+- the two lowest _non_zero_ tutorials, extensions and onboarding scores will be dropped.
 - the two lowest class engagement scores will be dropped. 
 - the lowest reading and discussion score will be dropped.
 - the lowest project work score will be dropped.
