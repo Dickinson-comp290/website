@@ -20,6 +20,7 @@
 
 ## Recommended Events
 
+- [Andrew Scott Cohen Dickinson Alumni and Anthropic Employee](https://www.linkedin.com/in/andrew-scott-cohen) (Friday September 18, 3:00pm)
 - [Can a Computer Program Think Like a Human?](https://www.clarkeforum.org/tuesday-september-29-2026/) (Tuesday September 29, 7pm ATS)
 - [An Evening with Dr. Ayana Elizabeth Johnson](https://www.dickinson.edu/ayanaelizabethjohnson) (Tuesday October 27, 7pm ATS)
 - [Ethics and AI](https://tinyurl.com/dson-ethics-ai-2026) (Thursday October 29, 5:30-7:30 Stern - Registration Required)
