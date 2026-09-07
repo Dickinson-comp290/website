@@ -67,6 +67,7 @@ Key:
 [E02]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/4
 [T03]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/5
 [E03]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/16
+[T04]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/20
 
 ---
 
