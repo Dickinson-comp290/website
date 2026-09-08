@@ -20,7 +20,7 @@
 
 ## Recommended Events
 
-- [Andrew Scott Cohen Dickinson Alumni and Anthropic Employee](https://www.linkedin.com/in/andrew-scott-cohen) (Friday September 18, 3:00pm)
+- [Andrew Scott Cohen Dickinson Alumni and Anthropic Employee](https://www.linkedin.com/in/andrew-scott-cohen) (Friday September 18, 3:00pm, Tome 115)
 - [Can a Computer Program Think Like a Human?](https://www.clarkeforum.org/tuesday-september-29-2026/) (Tuesday September 29, 7pm ATS)
 - [An Evening with Dr. Ayana Elizabeth Johnson](https://www.dickinson.edu/ayanaelizabethjohnson) (Tuesday October 27, 7pm ATS)
 - [Ethics and AI](https://tinyurl.com/dson-ethics-ai-2026) (Thursday October 29, 5:30-7:30 Stern - Registration Required)
@@ -33,7 +33,7 @@ Date            | Class Information                                 | Assigned  
 &nbsp;          | **Web Development with Vue.js**                   |                     |
 W 09/02/26      | C01 - HTML/CSS/JS                                 | [T01]               |
 W 09/09/26      | C02 - Vue 1                                       | [E01], [T02]        |
-W 09/16/26      | C03 - Vue 2                                       | [E02]. [T03]        |
+W 09/16/26      | C03 - Vue 2                                       | [E02], [T03]        |
 W 09/23/26      | C04 - Vue 3                                       | [E03], [T04], [R01] |
 W 09/30/26      | C05 - Vue 4 - Reading & Discussion 1              | [E04], [T05]        |
 W 10/07/26      | C06 - Cypress Testing                             | [E05], [T06]        |
