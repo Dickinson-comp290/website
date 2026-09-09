@@ -12,6 +12,8 @@
 ## Resources
 
 - [Vue3-WebDev-F26 Repo](https://github.com/Dickinson-comp290/Vue3-WebDev-F26)
+- [GitHub Workflow Diagram](./materials/images/GitGitHubWorkFlow.png)
+
 <!-- - FarmDat2-School Repo -->
 <!-- - [Codespaces Usage](https://github.com/settings/billing/usage) -->
 <!-- - [Copilot Usage](https://github.com/settings/billing/ai_usage) -->
@@ -39,7 +41,7 @@ W 09/30/26      | C05 - Vue 4 - Reading & Discussion 1              | [E04], [T0
 W 10/07/26      | C06 - Cypress Testing                             | [E05], [T06]        |
 W 10/14/26      | C07 - API Calls                                   | [E06]               |
 &nbsp;          | **FarmData2 Onboarding**                          |                     |
-W 10/21/26      | C08 - FD2 School 1 (Farm Visit???)                | [F01]               |
+W 10/21/26      | C08 - FD2 School 1 & Farm Field Trip              | [F01]               |
 W 10/28/26      | C09 - FD2 School 2                                | [F02], [R02]        |
 W 11/04/26      | C10 - FD2 School 3 - Reading & Discussion 2       | [F03]               |
 W 11/11/26      | C11 - FD2 School 4                                | [F04]               |
