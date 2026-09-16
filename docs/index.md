@@ -39,9 +39,9 @@ Date            | Class Information                                 | Assigned  
 W 09/02/26      | C01 - HTML/CSS/JS                                 | [T01]               |
 W 09/09/26      | C02 - Vue 1                                       | [E01], [T02]        |
 W 09/16/26      | C03 - Vue 2                                       | [E02], [T03]        |
-W 09/23/26      | C04 - Vue 3                                       | [E03], [T04], [R01] |
-W 09/30/26      | C05 - Vue 4 - Reading & Discussion 1              | [E04], [T05]        |
-W 10/07/26      | C06 - Cypress Testing                             | [E05], [T06]        |
+W 09/23/26      | C04 - Vue 3                                       | [E03], [T04]        |
+W 09/30/26      | C05 - Vue 4                                       | [E04], [T05], [R01] |
+W 10/07/26      | C06 - Cypress Testing - Reading & Discussion 1    | [E05], [T06]        |
 W 10/14/26      | C07 - API Calls                                   | [E06]               |
 &nbsp;          | **FarmData2 Onboarding**                          |                     |
 W 10/21/26      | C08 - FD2 School 1 & Farm Field Trip              | [F01]               |
@@ -74,6 +74,7 @@ Key:
 [E03]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/16
 [T04]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/20
 [E04]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/31
+[T05]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/40
 
 ---
 
