@@ -16,12 +16,14 @@
 - [GitHub Codespaces Page](https://github.com/codespaces)
 - [GitHub Status](https://www.githubstatus.com/)
 - [GitHub Workflow Diagram](./materials/images/GitGitHubWorkFlow.png)
+- Monitoring GitHub Costs
+  - [Codespaces Usage](https://github.com/settings/billing/usage)
+  - [Copilot Usage](https://github.com/settings/billing/ai_usage)
+  - Use **GPT-5.3 Luna** as the model for all course work.
+    - Very good cost/performance ratio and more than adequate for the coursework.
+    - [Copilot Models and Pricing for GitHub](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing)
 
 <!-- - FarmDat2-School Repo -->
-<!-- - [Codespaces Usage](https://github.com/settings/billing/usage) -->
-<!-- - [Copilot Usage](https://github.com/settings/billing/ai_usage) -->
-<!-- - [Copilot Models and Pricing for GitHub](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing) -->
-  <!-- - **The GPT-5.3 Luna Model is highly recommended.** -->
 
 ## Recommended Events
 
@@ -42,9 +44,9 @@ W 09/16/26      | C03 - Vue 2                                       | [E02], [T0
 W 09/23/26      | C04 - Vue 3                                       | [E03], [T04]        |
 W 09/30/26      | C05 - Vue 4                                       | [E04], [T05], [R01] |
 W 10/07/26      | C06 - Cypress Testing - Reading & Discussion 1    | [E05], [T06]        |
-W 10/14/26      | C07 - API Calls                                   | [E06]               |
+W 10/14/26      | C07 - API Calls                                   | [E06], [T07]        |
 &nbsp;          | **FarmData2 Onboarding**                          |                     |
-W 10/21/26      | C08 - FD2 School 1 & Farm Field Trip              | [F01]               |
+W 10/21/26      | C08 - FD2 School 1 & Farm Field Trip              | [E07], [F01]        |
 W 10/28/26      | C09 - FD2 School 2                                | [F02], [R02]        |
 W 11/04/26      | C10 - FD2 School 3 - Reading & Discussion 2       | [F03]               |
 W 11/11/26      | C11 - FD2 School 4                                | [F04]               |
@@ -75,6 +77,9 @@ Key:
 [T04]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/20
 [E04]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/31
 [T05]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/40
+[E05]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/53
+[T06]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/57
+
 
 ---
 
