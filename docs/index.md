@@ -19,9 +19,12 @@
 - Monitoring GitHub Costs
   - [Codespaces Usage](https://github.com/settings/billing/usage)
   - [Copilot Usage](https://github.com/settings/billing/ai_usage)
-  - Use **GPT-5.3 Luna** as the model for all course work.
+  - Use **GPT-5.6 Luna** as the model for all course work.
     - Very good cost/performance ratio and more than adequate for the coursework.
     - [Copilot Models and Pricing for GitHub](https://docs.github.com/en/copilot/reference/copilot-billing/models-and-pricing)
+- [AI Carbon Footprint Calculator](https://aiimpactcalculator.com)
+  - "Pick a model, enter how you use it, and get the energy, CO2, and water numbers." 
+  - Also displays impact in comparison to other everyday activities.
 
 <!-- - FarmDat2-School Repo -->
 
@@ -79,6 +82,7 @@ Key:
 [T05]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/40
 [E05]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/53
 [T06]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/57
+[E06]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/75
 
 
 ---
