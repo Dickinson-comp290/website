@@ -84,6 +84,7 @@ Key:
 [T06]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/57
 [E06]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/75
 [T07]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/100
+[E07]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/102
 
 [R]: materials/R.md
 
