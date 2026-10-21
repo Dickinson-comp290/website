@@ -87,6 +87,7 @@ Key:
 [E07]: https://github.com/Dickinson-comp290/Vue3-WebDev-F26/issues/102
 
 [F01]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/4
+[F02]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/11
 
 [R]: materials/R.md
 
