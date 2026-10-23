@@ -21,6 +21,19 @@ Prepare for a discussion including but not limited to the following questions:
 7. What do they mean by the phrase "Cognitive Surrender"? How can you prevent it?
 8. What else would you like to hear about from your classmates on this topic?
 
+### RD02 - The People Who Will Thrive in the AI Age
+
+- Read the Atlantic article "The People Who Will Thrive in the AI Age" By David Brooks (Posted in the course Teams Channel.)
+
+Prepare for a discussion including but not limited to the following questions:
+
+1. How would you summarize the point that Brooks is making in a few sentences? Do you agree or disagree? Why?
+2. What does he mean by the statement that "When intelligence is plentiful, volition is valuable."?
+3. Which group of people do you most associate with "The Productive Passengers," "The Reluctant Optimizers", or the "Mental Marathoners"?
+4. Which of the techniques used by "Mental Marathoners" for increasing agency do you already practice? Which might you adopt? Which might you avoid? Why?
+5. Brooks asserts that "In the age of AI, schools will have to shift their orientation to focus on volition" and to "cultivate people's desire to seek out cognitive complexity." How might we change education to do that?
+6. What else would you like to hear about from your classmates on this topic?
+
 ---
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
