@@ -50,8 +50,8 @@ W 10/14/26      | C07 - API Calls                                   | [E06], [T0
 &nbsp;          | **FarmData2 Onboarding**                          |                     |
 W 10/21/26      | C08 - FD2 School 1 & Farm Field Trip              | [E07], [F01]        |
 W 10/28/26      | C09 - FD2 School 2                                | [F02], [R]02        |
-W 11/04/26      | C10 - FD2 School 3 - Reading & Discussion 2       | [F03]               |
-W 11/11/26      | C11 - FD2 School 4                                | [F04]               |
+W 11/04/26      | C10 - FD2 School 3 - Reading & Discussion 2       | [F03], [F04]        |
+W 11/11/26      | C11 - FD2 School 4                                | [F05]               |
 &nbsp;          | **FarmData2 Project Work**                        |                     |
 W 11/18/26      | C12 - Project Work 1                              | [P01], [R]03        |
 W 11/25/26      | Thanksgiving Break                                |                     |
@@ -87,6 +87,8 @@ Key:
 
 [F01]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/4
 [F02]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/11
+[F03]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/20
+[F04]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/21
 
 [R]: materials/R.md
 
