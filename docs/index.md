@@ -12,6 +12,7 @@
 ## Resources
 
 - [FD2-School-F26 Repo](https://github.com/Dickinson-comp290/FD2-School-Kit-F26)
+  - [FarmData2 Architecture](./materials/images/FD2-Architecture.png)
 - [Vue3-WebDev-F26 Repo](https://github.com/Dickinson-comp290/Vue3-WebDev-F26)
   - [Quick Reference](https://github.com/Dickinson-comp290/Vue3-WebDev-F26/blob/main/docs/QuickReference.md)
 - [GitHub Codespaces Page](https://github.com/codespaces)
