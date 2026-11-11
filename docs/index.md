@@ -90,7 +90,7 @@ Key:
 [F02]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/11
 [F03]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/20
 [F04]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/21
-[F05]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/35
+[F05]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/54
 
 [R]: materials/R.md
 
