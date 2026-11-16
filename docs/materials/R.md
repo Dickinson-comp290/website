@@ -34,6 +34,23 @@ Prepare for a discussion including but not limited to the following questions:
 5. Brooks asserts that "In the age of AI, schools will have to shift their orientation to focus on volition" and to "cultivate people's desire to seek out cognitive complexity." How might we change education to do that?
 6. What else would you like to hear about from your classmates on this topic?
 
+# RD03 - Right to Repair
+
+- Read Brian Barrett's interview "Louis Rossmann Wants More People to Care About the Right to Repair" that appeared in Wired's Big Story on Nov 10, 2026. (Posted in the course Teams Channel.)
+
+Prepare for a discussion including but not limited to the following questions:
+
+1. How would you summarize the goals of the "right to repair movement"?
+2. What is section 1201 of the Digital Millennium Copyright Act (DMCA), and how does it relate to right to repair? 
+   1. What are digital locks? What are the arguments for and against them?
+   2. What do you think of the analogy of buying a $600,000 house and noticing that there is a locked closet? 
+   3. Can you think of similar analogies for other related scenarios:
+      1. Apple restricting the ability of parts vendors to sell only to authorized companies?
+      2. Amazon removing removing eBooks from kindles?
+      3. The thermostat company restricting access to features to make more money?
+4. In what ways should a vendor have control over your [phone, tablet, eBook, car, tv, thermostat, security camera, house, etc.] after you purchase it? Does it differ by what type of device it is? If so how?
+5. What else would you like to hear about from your classmates on this topic?
+
 ---
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
