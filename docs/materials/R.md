@@ -37,6 +37,7 @@ Prepare for a discussion including but not limited to the following questions:
 # RD03 - Right to Repair
 
 - Read Brian Barrett's interview "Louis Rossmann Wants More People to Care About the Right to Repair" that appeared in Wired's Big Story on Nov 10, 2026. (Posted in the course Teams Channel.)
+- Read Aarian Marshall's article [Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About](https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/) from Wired on Nov 17, 2026.
 
 Prepare for a discussion including but not limited to the following questions:
 
