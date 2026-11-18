@@ -94,6 +94,9 @@ Key:
 
 [R]: materials/R.md
 
+[P01]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/67
+[P02]: https://github.com/Dickinson-comp290/FD2-School-Kit-F26/issues/68
+
 ---
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
