@@ -34,7 +34,7 @@ Prepare for a discussion including but not limited to the following questions:
 5. Brooks asserts that "In the age of AI, schools will have to shift their orientation to focus on volition" and to "cultivate people's desire to seek out cognitive complexity." How might we change education to do that?
 6. What else would you like to hear about from your classmates on this topic?
 
-# RD03 - Right to Repair
+# RD03 - Right to Repair / Ownership
 
 - Read Brian Barrett's interview "Louis Rossmann Wants More People to Care About the Right to Repair" that appeared in Wired's Big Story on Nov 10, 2026. (Posted in the course Teams Channel.)
 - Read Aarian Marshall's article [Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About](https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/) from Wired on Nov 17, 2026.

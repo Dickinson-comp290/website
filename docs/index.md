@@ -54,12 +54,12 @@ W 10/28/26      | C09 - FD2 School 2                                | [F02], [R]
 W 11/04/26      | C10 - FD2 School 3 - Reading & Discussion 2       | [F03], [F04]        |
 W 11/11/26      | C11 - FD2 School 4                                | [F05]               |
 &nbsp;          | **FarmData2 Project Work**                        |                     |
-W 11/18/26      | C12 - Project Work 1                              | [P01], [R]03        |
+W 11/18/26      | C12 - Project Work 1                              | [P01], [P02], [R]03 |
 W 11/25/26      | Thanksgiving Break                                |                     |
-W 12/02/26      | C13 - Project Work 2 - Reading & Discussion 3     | [P02]               |
-W 12/09/26      | C14 - Project Work 3                              | [P03]               |
+W 12/02/26      | C13 - Project Work 2 - Reading & Discussion 3     |                     |
+W 12/09/26      | C14 - Project Work 3                              |                     |
 &nbsp;          |                                                   |                     |
-S 12/19/26      | 2:00pm - Final Exam Period                        | [P04]               |
+S 12/19/26      | ~~2:00pm - Final Exam Period~~                    |                     |
 
 Note: Unlinked assignments and due dates are tentative and subject to change.
 
